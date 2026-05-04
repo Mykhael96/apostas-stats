@@ -1,0 +1,35 @@
+name: Atualizar Estatísticas de Futebol
+
+on:
+  schedule:
+    - cron: '0 11 * * 1'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar biblioteca requests
+        run: pip install requests
+
+      - name: Rodar script de coleta
+        env:
+          FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
+        run: python scripts/update_stats.py
+
+      - name: Salvar JSON atualizado
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/stats.json
+          git diff --staged --quiet || git commit -m "stats: atualização $(date +'%d/%m/%Y')"
+          git push
