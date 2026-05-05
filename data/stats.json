@@ -2,8 +2,8 @@
   "BSA": {
     "competicao": "Campeonato Brasileiro Série A",
     "rodada": "Próximos jogos",
-    "ligaMediaGols": 2.65,
-    "atualizadoEm": "04/05/2026 18:40 UTC",
+    "ligaMediaGols": 2.64,
+    "atualizadoEm": "05/05/2026 17:31 UTC",
     "jogos": [
       {
         "id": "coritiba-fbc-vs-sc-internacional",
@@ -247,7 +247,7 @@
             "E",
             "D",
             "E",
-            "D"
+            "E"
           ],
           "posicaoTabela": 0,
           "jogosEmCasa": 7
@@ -273,7 +273,7 @@
         "id": "grêmio-fbpa-vs-cr-flamengo",
         "timeA": {
           "nome": "Grêmio FBPA",
-          "mediaGolsMarcadosCasa": 2.0,
+          "mediaGolsMarcadosCasa": 1.83,
           "mediaGolsSofridosCasa": 0.83,
           "ultimos5": [
             "D",
@@ -340,42 +340,9 @@
   "PL": {
     "competicao": "Premier League",
     "rodada": "Próximos jogos",
-    "ligaMediaGols": 2.75,
-    "atualizadoEm": "04/05/2026 18:40 UTC",
+    "ligaMediaGols": 2.76,
+    "atualizadoEm": "05/05/2026 17:31 UTC",
     "jogos": [
-      {
-        "id": "everton-fc-vs-manchester-city-fc",
-        "timeA": {
-          "nome": "Everton FC",
-          "mediaGolsMarcadosCasa": 1.29,
-          "mediaGolsSofridosCasa": 1.24,
-          "ultimos5": [
-            "V",
-            "V",
-            "D",
-            "E",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 17
-        },
-        "timeB": {
-          "nome": "Manchester City FC",
-          "mediaGolsMarcadosFora": 1.65,
-          "mediaGolsSofridosFora": 1.0,
-          "ultimos5": [
-            "V",
-            "V",
-            "E",
-            "V",
-            "V"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 17
-        },
-        "dataJogo": "04/05 19:00",
-        "contexto": ""
-      },
       {
         "id": "liverpool-fc-vs-chelsea-fc",
         "timeA": {
@@ -516,10 +483,10 @@
           "mediaGolsSofridosCasa": 0.75,
           "ultimos5": [
             "V",
-            "V",
             "E",
             "V",
-            "V"
+            "V",
+            "E"
           ],
           "posicaoTabela": 0,
           "jogosEmCasa": 16
@@ -672,6 +639,39 @@
         },
         "dataJogo": "10/05 15:30",
         "contexto": ""
+      },
+      {
+        "id": "tottenham-hotspur-fc-vs-leeds-united-fc",
+        "timeA": {
+          "nome": "Tottenham Hotspur FC",
+          "mediaGolsMarcadosCasa": 1.18,
+          "mediaGolsSofridosCasa": 1.76,
+          "ultimos5": [
+            "D",
+            "E",
+            "D",
+            "V",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 17
+        },
+        "timeB": {
+          "nome": "Leeds United FC",
+          "mediaGolsMarcadosFora": 1.12,
+          "mediaGolsSofridosFora": 1.82,
+          "ultimos5": [
+            "E",
+            "E",
+            "E",
+            "V",
+            "E"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 17
+        },
+        "dataJogo": "11/05 19:00",
+        "contexto": ""
       }
     ]
   },
@@ -679,7 +679,7 @@
     "competicao": "Bundesliga",
     "rodada": "Próximos jogos",
     "ligaMediaGols": 3.22,
-    "atualizadoEm": "04/05/2026 18:40 UTC",
+    "atualizadoEm": "05/05/2026 17:31 UTC",
     "jogos": [
       {
         "id": "borussia-dortmund-vs-eintracht-frankfurt",
@@ -983,42 +983,9 @@
   "SA": {
     "competicao": "Serie A",
     "rodada": "Próximos jogos",
-    "ligaMediaGols": 2.4,
-    "atualizadoEm": "04/05/2026 18:40 UTC",
+    "ligaMediaGols": 2.41,
+    "atualizadoEm": "05/05/2026 17:31 UTC",
     "jogos": [
-      {
-        "id": "as-roma-vs-acf-fiorentina",
-        "timeA": {
-          "nome": "AS Roma",
-          "mediaGolsMarcadosCasa": 1.59,
-          "mediaGolsSofridosCasa": 0.59,
-          "ultimos5": [
-            "E",
-            "D",
-            "D",
-            "D",
-            "V"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 17
-        },
-        "timeB": {
-          "nome": "ACF Fiorentina",
-          "mediaGolsMarcadosFora": 1.06,
-          "mediaGolsSofridosFora": 1.47,
-          "ultimos5": [
-            "V",
-            "D",
-            "V",
-            "V",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 17
-        },
-        "dataJogo": "04/05 18:45",
-        "contexto": ""
-      },
       {
         "id": "torino-fc-vs-us-sassuolo-calcio",
         "timeA": {
@@ -1029,7 +996,7 @@
             "D",
             "D",
             "V",
-            "E",
+            "D",
             "D"
           ],
           "posicaoTabela": 0,
@@ -1128,7 +1095,7 @@
             "D",
             "D",
             "D",
-            "E",
+            "D",
             "V"
           ],
           "posicaoTabela": 0,
@@ -1155,7 +1122,7 @@
         "id": "hellas-verona-fc-vs-como-1907",
         "timeA": {
           "nome": "Hellas Verona FC",
-          "mediaGolsMarcadosCasa": 0.71,
+          "mediaGolsMarcadosCasa": 0.76,
           "mediaGolsSofridosCasa": 1.47,
           "ultimos5": [
             "D",
@@ -1191,11 +1158,11 @@
           "mediaGolsMarcadosCasa": 1.18,
           "mediaGolsSofridosCasa": 1.18,
           "ultimos5": [
-            "V",
             "D",
             "V",
             "V",
-            "E"
+            "E",
+            "D"
           ],
           "posicaoTabela": 0,
           "jogosEmCasa": 17
@@ -1221,7 +1188,7 @@
         "id": "us-cremonese-vs-ac-pisa-1909",
         "timeA": {
           "nome": "US Cremonese",
-          "mediaGolsMarcadosCasa": 0.82,
+          "mediaGolsMarcadosCasa": 0.88,
           "mediaGolsSofridosCasa": 1.47,
           "ultimos5": [
             "D",
@@ -1315,48 +1282,48 @@
         },
         "dataJogo": "10/05 18:45",
         "contexto": ""
+      },
+      {
+        "id": "ssc-napoli-vs-bologna-fc-1909",
+        "timeA": {
+          "nome": "SSC Napoli",
+          "mediaGolsMarcadosCasa": 1.76,
+          "mediaGolsSofridosCasa": 0.88,
+          "ultimos5": [
+            "D",
+            "V",
+            "V",
+            "E",
+            "E"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 17
+        },
+        "timeB": {
+          "nome": "Bologna FC 1909",
+          "mediaGolsMarcadosFora": 1.53,
+          "mediaGolsSofridosFora": 1.24,
+          "ultimos5": [
+            "V",
+            "V",
+            "V",
+            "V",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 17
+        },
+        "dataJogo": "11/05 18:45",
+        "contexto": ""
       }
     ]
   },
   "PD": {
     "competicao": "La Liga",
     "rodada": "Próximos jogos",
-    "ligaMediaGols": 2.71,
-    "atualizadoEm": "04/05/2026 18:40 UTC",
+    "ligaMediaGols": 2.7,
+    "atualizadoEm": "05/05/2026 17:31 UTC",
     "jogos": [
-      {
-        "id": "sevilla-fc-vs-real-sociedad-de-fútbol",
-        "timeA": {
-          "nome": "Sevilla FC",
-          "mediaGolsMarcadosCasa": 1.31,
-          "mediaGolsSofridosCasa": 1.44,
-          "ultimos5": [
-            "E",
-            "D",
-            "D",
-            "D",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 16
-        },
-        "timeB": {
-          "nome": "Real Sociedad de Fútbol",
-          "mediaGolsMarcadosFora": 1.25,
-          "mediaGolsSofridosFora": 1.69,
-          "ultimos5": [
-            "D",
-            "V",
-            "D",
-            "D",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 16
-        },
-        "dataJogo": "04/05 19:00",
-        "contexto": ""
-      },
       {
         "id": "levante-ud-vs-ca-osasuna",
         "timeA": {
@@ -1427,8 +1394,8 @@
         "id": "sevilla-fc-vs-rcd-espanyol-de-barcelona",
         "timeA": {
           "nome": "Sevilla FC",
-          "mediaGolsMarcadosCasa": 1.31,
-          "mediaGolsSofridosCasa": 1.44,
+          "mediaGolsMarcadosCasa": 1.29,
+          "mediaGolsSofridosCasa": 1.35,
           "ultimos5": [
             "E",
             "D",
@@ -1437,7 +1404,7 @@
             "D"
           ],
           "posicaoTabela": 0,
-          "jogosEmCasa": 16
+          "jogosEmCasa": 17
         },
         "timeB": {
           "nome": "RCD Espanyol de Barcelona",
@@ -1496,11 +1463,11 @@
           "mediaGolsMarcadosCasa": 1.88,
           "mediaGolsSofridosCasa": 1.47,
           "ultimos5": [
-            "D",
             "V",
             "D",
             "D",
-            "E"
+            "E",
+            "D"
           ],
           "posicaoTabela": 0,
           "jogosEmCasa": 17
@@ -1653,21 +1620,54 @@
         },
         "dataJogo": "10/05 19:00",
         "contexto": ""
+      },
+      {
+        "id": "rayo-vallecano-de-madrid-vs-girona-fc",
+        "timeA": {
+          "nome": "Rayo Vallecano de Madrid",
+          "mediaGolsMarcadosCasa": 1.24,
+          "mediaGolsSofridosCasa": 0.82,
+          "ultimos5": [
+            "E",
+            "E",
+            "D",
+            "D",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 17
+        },
+        "timeB": {
+          "nome": "Girona FC",
+          "mediaGolsMarcadosFora": 1.0,
+          "mediaGolsSofridosFora": 1.53,
+          "ultimos5": [
+            "E",
+            "E",
+            "D",
+            "E",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 17
+        },
+        "dataJogo": "11/05 19:00",
+        "contexto": ""
       }
     ]
   },
   "FL1": {
     "competicao": "Ligue 1",
     "rodada": "Próximos jogos",
-    "ligaMediaGols": 2.84,
-    "atualizadoEm": "04/05/2026 18:40 UTC",
+    "ligaMediaGols": 2.85,
+    "atualizadoEm": "05/05/2026 17:31 UTC",
     "jogos": []
   },
   "CL": {
     "competicao": "Champions League",
     "rodada": "Próximos jogos",
     "ligaMediaGols": 2.55,
-    "atualizadoEm": "04/05/2026 18:40 UTC",
+    "atualizadoEm": "05/05/2026 17:31 UTC",
     "jogos": []
   }
 }
