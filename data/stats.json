@@ -3,49 +3,49 @@
     "competicao": "Campeonato Brasileiro Série A",
     "rodada": "Próximos jogos",
     "ligaMediaGols": 2.66,
-    "atualizadoEm": "15/06/2026 16:17 UTC",
+    "atualizadoEm": "22/06/2026 15:51 UTC",
     "jogos": []
   },
   "PL": {
     "competicao": "Premier League",
     "rodada": "Próximos jogos",
-    "ligaMediaGols": 2.75,
-    "atualizadoEm": "15/06/2026 16:17 UTC",
+    "ligaMediaGols": 2.55,
+    "atualizadoEm": "22/06/2026 15:51 UTC",
     "jogos": []
   },
   "BL1": {
     "competicao": "Bundesliga",
     "rodada": "Próximos jogos",
     "ligaMediaGols": 3.24,
-    "atualizadoEm": "15/06/2026 16:17 UTC",
+    "atualizadoEm": "22/06/2026 15:51 UTC",
     "jogos": []
   },
   "SA": {
     "competicao": "Serie A",
     "rodada": "Próximos jogos",
     "ligaMediaGols": 2.55,
-    "atualizadoEm": "15/06/2026 16:17 UTC",
+    "atualizadoEm": "22/06/2026 15:51 UTC",
     "jogos": []
   },
   "PD": {
     "competicao": "La Liga",
     "rodada": "Próximos jogos",
     "ligaMediaGols": 2.69,
-    "atualizadoEm": "15/06/2026 16:17 UTC",
+    "atualizadoEm": "22/06/2026 15:51 UTC",
     "jogos": []
   },
   "FL1": {
     "competicao": "Ligue 1",
     "rodada": "Próximos jogos",
     "ligaMediaGols": 2.55,
-    "atualizadoEm": "15/06/2026 16:17 UTC",
+    "atualizadoEm": "22/06/2026 15:51 UTC",
     "jogos": []
   },
   "CL": {
     "competicao": "Champions League",
     "rodada": "Próximos jogos",
     "ligaMediaGols": 2.55,
-    "atualizadoEm": "15/06/2026 16:17 UTC",
+    "atualizadoEm": "22/06/2026 15:51 UTC",
     "jogos": []
   }
 }
