@@ -3,49 +3,116 @@
     "competicao": "Campeonato Brasileiro Série A",
     "rodada": "Próximos jogos",
     "ligaMediaGols": 2.66,
-    "atualizadoEm": "29/06/2026 14:47 UTC",
-    "jogos": []
+    "atualizadoEm": "06/07/2026 14:24 UTC",
+    "jogos": [
+      {
+        "id": "botafogo-fr-vs-santos-fc",
+        "timeA": {
+          "nome": "Botafogo FR",
+          "mediaGolsMarcadosCasa": 2.14,
+          "mediaGolsSofridosCasa": 1.71,
+          "ultimos5": [
+            "V",
+            "V",
+            "E",
+            "E",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 7
+        },
+        "timeB": {
+          "nome": "Santos FC",
+          "mediaGolsMarcadosFora": 1.38,
+          "mediaGolsSofridosFora": 2.12,
+          "ultimos5": [
+            "E",
+            "D",
+            "E",
+            "E",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 8
+        },
+        "dataJogo": "16/07 22:30",
+        "contexto": ""
+      },
+      {
+        "id": "ec-vitória-vs-cr-vasco-da-gama",
+        "timeA": {
+          "nome": "EC Vitória",
+          "mediaGolsMarcadosCasa": 1.75,
+          "mediaGolsSofridosCasa": 0.38,
+          "ultimos5": [
+            "E",
+            "D",
+            "E",
+            "D",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 8
+        },
+        "timeB": {
+          "nome": "CR Vasco da Gama",
+          "mediaGolsMarcadosFora": 1.25,
+          "mediaGolsSofridosFora": 2.0,
+          "ultimos5": [
+            "E",
+            "E",
+            "D",
+            "E",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 8
+        },
+        "dataJogo": "16/07 22:30",
+        "contexto": ""
+      }
+    ]
   },
   "PL": {
     "competicao": "Premier League",
     "rodada": "Próximos jogos",
     "ligaMediaGols": 2.55,
-    "atualizadoEm": "29/06/2026 14:47 UTC",
+    "atualizadoEm": "06/07/2026 14:24 UTC",
     "jogos": []
   },
   "BL1": {
     "competicao": "Bundesliga",
     "rodada": "Próximos jogos",
-    "ligaMediaGols": 3.24,
-    "atualizadoEm": "29/06/2026 14:47 UTC",
+    "ligaMediaGols": 2.55,
+    "atualizadoEm": "06/07/2026 14:24 UTC",
     "jogos": []
   },
   "SA": {
     "competicao": "Serie A",
     "rodada": "Próximos jogos",
     "ligaMediaGols": 2.55,
-    "atualizadoEm": "29/06/2026 14:47 UTC",
+    "atualizadoEm": "06/07/2026 14:24 UTC",
     "jogos": []
   },
   "PD": {
     "competicao": "La Liga",
     "rodada": "Próximos jogos",
-    "ligaMediaGols": 2.69,
-    "atualizadoEm": "29/06/2026 14:47 UTC",
+    "ligaMediaGols": 2.55,
+    "atualizadoEm": "06/07/2026 14:24 UTC",
     "jogos": []
   },
   "FL1": {
     "competicao": "Ligue 1",
     "rodada": "Próximos jogos",
     "ligaMediaGols": 2.55,
-    "atualizadoEm": "29/06/2026 14:47 UTC",
+    "atualizadoEm": "06/07/2026 14:24 UTC",
     "jogos": []
   },
   "CL": {
     "competicao": "Champions League",
     "rodada": "Próximos jogos",
     "ligaMediaGols": 2.55,
-    "atualizadoEm": "29/06/2026 14:47 UTC",
+    "atualizadoEm": "06/07/2026 14:24 UTC",
     "jogos": []
   }
 }
