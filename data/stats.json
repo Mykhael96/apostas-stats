@@ -2,15 +2,62 @@
   "BSA": {
     "competicao": "Campeonato Brasileiro Série A",
     "rodada": "Próximos jogos",
-    "ligaMediaGols": 2.62,
-    "atualizadoEm": "27/07/2026 13:38 UTC",
+    "ligaMediaGols": 2.59,
+    "atualizadoEm": "03/08/2026 13:40 UTC",
     "jogos": [
       {
-        "id": "ca-mineiro-vs-rb-bragantino",
+        "id": "grêmio-fbpa-vs-são-paulo-fc",
         "timeA": {
+          "nome": "Grêmio FBPA",
+          "mediaGolsMarcadosCasa": 1.6,
+          "mediaGolsSofridosCasa": 1.2,
+          "ultimos5": [
+            "E",
+            "D",
+            "E",
+            "E",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 10
+        },
+        "timeB": {
+          "nome": "São Paulo FC",
+          "mediaGolsMarcadosFora": 0.91,
+          "mediaGolsSofridosFora": 1.36,
+          "ultimos5": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "E"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 11
+        },
+        "dataJogo": "08/08 19:00",
+        "contexto": ""
+      },
+      {
+        "id": "clube-do-remo-vs-ca-mineiro",
+        "timeA": {
+          "nome": "Clube do Remo",
+          "mediaGolsMarcadosCasa": 1.3,
+          "mediaGolsSofridosCasa": 1.1,
+          "ultimos5": [
+            "D",
+            "V",
+            "V",
+            "D",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 10
+        },
+        "timeB": {
           "nome": "CA Mineiro",
-          "mediaGolsMarcadosCasa": 1.56,
-          "mediaGolsSofridosCasa": 1.44,
+          "mediaGolsMarcadosFora": 1.0,
+          "mediaGolsSofridosFora": 1.09,
           "ultimos5": [
             "D",
             "V",
@@ -19,27 +66,46 @@
             "V"
           ],
           "posicaoTabela": 0,
-          "jogosEmCasa": 9
+          "jogosForaDeCasa": 11
         },
-        "timeB": {
-          "nome": "RB Bragantino",
-          "mediaGolsMarcadosFora": 1.0,
-          "mediaGolsSofridosFora": 1.1,
+        "dataJogo": "08/08 21:30",
+        "contexto": ""
+      },
+      {
+        "id": "coritiba-fbc-vs-chapecoense-af",
+        "timeA": {
+          "nome": "Coritiba FBC",
+          "mediaGolsMarcadosCasa": 1.1,
+          "mediaGolsSofridosCasa": 1.2,
           "ultimos5": [
             "D",
-            "V",
             "D",
             "V",
+            "D",
+            "E"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 10
+        },
+        "timeB": {
+          "nome": "Chapecoense AF",
+          "mediaGolsMarcadosFora": 0.6,
+          "mediaGolsSofridosFora": 1.7,
+          "ultimos5": [
+            "E",
+            "D",
+            "D",
+            "D",
             "E"
           ],
           "posicaoTabela": 0,
           "jogosForaDeCasa": 10
         },
-        "dataJogo": "29/07 20:00",
+        "dataJogo": "08/08 23:30",
         "contexto": ""
       },
       {
-        "id": "botafogo-fr-vs-grêmio-fbpa",
+        "id": "botafogo-fr-vs-fluminense-fc",
         "timeA": {
           "nome": "Botafogo FR",
           "mediaGolsMarcadosCasa": 1.89,
@@ -55,37 +121,70 @@
           "jogosEmCasa": 9
         },
         "timeB": {
-          "nome": "Grêmio FBPA",
-          "mediaGolsMarcadosFora": 0.6,
+          "nome": "Fluminense FC",
+          "mediaGolsMarcadosFora": 1.2,
           "mediaGolsSofridosFora": 1.4,
           "ultimos5": [
-            "E",
+            "V",
+            "D",
             "D",
             "E",
-            "E",
-            "D"
+            "E"
           ],
           "posicaoTabela": 0,
           "jogosForaDeCasa": 10
         },
-        "dataJogo": "29/07 20:00",
+        "dataJogo": "09/08 00:00",
         "contexto": ""
       },
       {
-        "id": "chapecoense-af-vs-cr-vasco-da-gama",
+        "id": "cruzeiro-ec-vs-mirassol-fc",
         "timeA": {
-          "nome": "Chapecoense AF",
-          "mediaGolsMarcadosCasa": 1.3,
-          "mediaGolsSofridosCasa": 2.4,
+          "nome": "Cruzeiro EC",
+          "mediaGolsMarcadosCasa": 1.45,
+          "mediaGolsSofridosCasa": 1.18,
           "ultimos5": [
+            "V",
+            "V",
             "E",
+            "V",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 11
+        },
+        "timeB": {
+          "nome": "Mirassol FC",
+          "mediaGolsMarcadosFora": 0.89,
+          "mediaGolsSofridosFora": 1.56,
+          "ultimos5": [
+            "V",
             "D",
             "D",
             "D",
             "E"
           ],
           "posicaoTabela": 0,
-          "jogosEmCasa": 10
+          "jogosForaDeCasa": 9
+        },
+        "dataJogo": "09/08 14:00",
+        "contexto": ""
+      },
+      {
+        "id": "ec-bahia-vs-cr-vasco-da-gama",
+        "timeA": {
+          "nome": "EC Bahia",
+          "mediaGolsMarcadosCasa": 1.55,
+          "mediaGolsSofridosCasa": 1.0,
+          "ultimos5": [
+            "D",
+            "E",
+            "D",
+            "E",
+            "E"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 11
         },
         "timeB": {
           "nome": "CR Vasco da Gama",
@@ -101,181 +200,63 @@
           "posicaoTabela": 0,
           "jogosForaDeCasa": 9
         },
-        "dataJogo": "29/07 20:00",
+        "dataJogo": "09/08 19:00",
         "contexto": ""
       },
       {
-        "id": "são-paulo-fc-vs-santos-fc",
+        "id": "se-palmeiras-vs-sc-internacional",
         "timeA": {
-          "nome": "São Paulo FC",
-          "mediaGolsMarcadosCasa": 1.67,
-          "mediaGolsSofridosCasa": 0.89,
-          "ultimos5": [
-            "D",
-            "D",
-            "D",
-            "D",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 9
-        },
-        "timeB": {
-          "nome": "Santos FC",
-          "mediaGolsMarcadosFora": 1.33,
-          "mediaGolsSofridosFora": 2.11,
-          "ultimos5": [
-            "D",
-            "E",
-            "E",
-            "D",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 9
-        },
-        "dataJogo": "29/07 20:00",
-        "contexto": ""
-      },
-      {
-        "id": "sc-internacional-vs-cr-flamengo",
-        "timeA": {
-          "nome": "SC Internacional",
-          "mediaGolsMarcadosCasa": 1.2,
-          "mediaGolsSofridosCasa": 1.1,
-          "ultimos5": [
-            "E",
-            "E",
-            "D",
-            "D",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 10
-        },
-        "timeB": {
-          "nome": "CR Flamengo",
-          "mediaGolsMarcadosFora": 1.9,
-          "mediaGolsSofridosFora": 0.9,
-          "ultimos5": [
-            "V",
-            "V",
-            "V",
-            "E",
-            "V"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 10
-        },
-        "dataJogo": "29/07 22:30",
-        "contexto": ""
-      },
-      {
-        "id": "mirassol-fc-vs-clube-do-remo",
-        "timeA": {
-          "nome": "Mirassol FC",
-          "mediaGolsMarcadosCasa": 1.3,
-          "mediaGolsSofridosCasa": 1.2,
-          "ultimos5": [
-            "V",
-            "D",
-            "D",
-            "D",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 10
-        },
-        "timeB": {
-          "nome": "Clube do Remo",
-          "mediaGolsMarcadosFora": 1.0,
-          "mediaGolsSofridosFora": 2.1,
-          "ultimos5": [
-            "E",
-            "D",
-            "V",
-            "V",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 10
-        },
-        "dataJogo": "29/07 22:30",
-        "contexto": ""
-      },
-      {
-        "id": "fluminense-fc-vs-ec-bahia",
-        "timeA": {
-          "nome": "Fluminense FC",
-          "mediaGolsMarcadosCasa": 1.8,
-          "mediaGolsSofridosCasa": 1.1,
-          "ultimos5": [
-            "V",
-            "D",
-            "D",
-            "E",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 10
-        },
-        "timeB": {
-          "nome": "EC Bahia",
-          "mediaGolsMarcadosFora": 1.33,
-          "mediaGolsSofridosFora": 1.56,
-          "ultimos5": [
-            "V",
-            "D",
-            "E",
-            "D",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 9
-        },
-        "dataJogo": "30/07 00:30",
-        "contexto": ""
-      },
-      {
-        "id": "ec-vitória-vs-se-palmeiras",
-        "timeA": {
-          "nome": "EC Vitória",
-          "mediaGolsMarcadosCasa": 1.67,
-          "mediaGolsSofridosCasa": 0.33,
-          "ultimos5": [
-            "E",
-            "D",
-            "D",
-            "E",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 9
-        },
-        "timeB": {
           "nome": "SE Palmeiras",
-          "mediaGolsMarcadosFora": 1.7,
-          "mediaGolsSofridosFora": 0.8,
-          "ultimos5": [
-            "E",
-            "V",
-            "E",
-            "V",
-            "V"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 10
-        },
-        "dataJogo": "30/07 00:30",
-        "contexto": ""
-      },
-      {
-        "id": "sc-corinthians-paulista-vs-ca-paranaense",
-        "timeA": {
-          "nome": "SC Corinthians Paulista",
-          "mediaGolsMarcadosCasa": 1.2,
+          "mediaGolsMarcadosCasa": 1.7,
           "mediaGolsSofridosCasa": 0.8,
           "ultimos5": [
+            "V",
+            "E",
+            "V",
+            "V",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 10
+        },
+        "timeB": {
+          "nome": "SC Internacional",
+          "mediaGolsMarcadosFora": 1.0,
+          "mediaGolsSofridosFora": 1.5,
+          "ultimos5": [
+            "E",
+            "E",
+            "D",
+            "D",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 10
+        },
+        "dataJogo": "09/08 19:00",
+        "contexto": ""
+      },
+      {
+        "id": "rb-bragantino-vs-sc-corinthians-paulista",
+        "timeA": {
+          "nome": "RB Bragantino",
+          "mediaGolsMarcadosCasa": 1.6,
+          "mediaGolsSofridosCasa": 0.9,
+          "ultimos5": [
+            "D",
+            "V",
+            "D",
+            "V",
+            "E"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 10
+        },
+        "timeB": {
+          "nome": "SC Corinthians Paulista",
+          "mediaGolsMarcadosFora": 1.0,
+          "mediaGolsSofridosFora": 1.2,
+          "ultimos5": [
             "E",
             "D",
             "D",
@@ -283,56 +264,75 @@
             "E"
           ],
           "posicaoTabela": 0,
-          "jogosEmCasa": 10
+          "jogosForaDeCasa": 10
+        },
+        "dataJogo": "09/08 21:30",
+        "contexto": ""
+      },
+      {
+        "id": "santos-fc-vs-ca-paranaense",
+        "timeA": {
+          "nome": "Santos FC",
+          "mediaGolsMarcadosCasa": 1.55,
+          "mediaGolsSofridosCasa": 1.27,
+          "ultimos5": [
+            "D",
+            "E",
+            "E",
+            "D",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 11
         },
         "timeB": {
           "nome": "CA Paranaense",
-          "mediaGolsMarcadosFora": 1.0,
-          "mediaGolsSofridosFora": 1.44,
+          "mediaGolsMarcadosFora": 0.9,
+          "mediaGolsSofridosFora": 1.3,
           "ultimos5": [
             "D",
             "D",
-            "D",
             "V",
-            "V"
+            "V",
+            "E"
           ],
           "posicaoTabela": 0,
-          "jogosForaDeCasa": 9
+          "jogosForaDeCasa": 10
         },
-        "dataJogo": "30/07 22:30",
+        "dataJogo": "09/08 21:30",
         "contexto": ""
       },
       {
-        "id": "coritiba-fbc-vs-cruzeiro-ec",
+        "id": "cr-flamengo-vs-ec-vitória",
         "timeA": {
-          "nome": "Coritiba FBC",
-          "mediaGolsMarcadosCasa": 1.22,
-          "mediaGolsSofridosCasa": 1.22,
+          "nome": "CR Flamengo",
+          "mediaGolsMarcadosCasa": 1.89,
+          "mediaGolsSofridosCasa": 0.89,
           "ultimos5": [
-            "D",
-            "D",
             "V",
-            "D",
+            "V",
+            "E",
+            "V",
             "E"
           ],
           "posicaoTabela": 0,
           "jogosEmCasa": 9
         },
         "timeB": {
-          "nome": "Cruzeiro EC",
-          "mediaGolsMarcadosFora": 1.11,
-          "mediaGolsSofridosFora": 1.89,
+          "nome": "EC Vitória",
+          "mediaGolsMarcadosFora": 0.64,
+          "mediaGolsSofridosFora": 2.18,
           "ultimos5": [
-            "D",
-            "V",
-            "V",
             "E",
-            "V"
+            "D",
+            "D",
+            "E",
+            "D"
           ],
           "posicaoTabela": 0,
-          "jogosForaDeCasa": 9
+          "jogosForaDeCasa": 11
         },
-        "dataJogo": "31/07 00:30",
+        "dataJogo": "09/08 22:30",
         "contexto": ""
       }
     ]
@@ -341,42 +341,42 @@
     "competicao": "Premier League",
     "rodada": "Próximos jogos",
     "ligaMediaGols": 2.55,
-    "atualizadoEm": "27/07/2026 13:38 UTC",
+    "atualizadoEm": "03/08/2026 13:40 UTC",
     "jogos": []
   },
   "BL1": {
     "competicao": "Bundesliga",
     "rodada": "Próximos jogos",
     "ligaMediaGols": 2.55,
-    "atualizadoEm": "27/07/2026 13:38 UTC",
+    "atualizadoEm": "03/08/2026 13:40 UTC",
     "jogos": []
   },
   "SA": {
     "competicao": "Serie A",
     "rodada": "Próximos jogos",
     "ligaMediaGols": 2.55,
-    "atualizadoEm": "27/07/2026 13:38 UTC",
+    "atualizadoEm": "03/08/2026 13:40 UTC",
     "jogos": []
   },
   "PD": {
     "competicao": "La Liga",
     "rodada": "Próximos jogos",
     "ligaMediaGols": 2.55,
-    "atualizadoEm": "27/07/2026 13:38 UTC",
+    "atualizadoEm": "03/08/2026 13:40 UTC",
     "jogos": []
   },
   "FL1": {
     "competicao": "Ligue 1",
     "rodada": "Próximos jogos",
     "ligaMediaGols": 2.55,
-    "atualizadoEm": "27/07/2026 13:38 UTC",
+    "atualizadoEm": "03/08/2026 13:40 UTC",
     "jogos": []
   },
   "CL": {
     "competicao": "Champions League",
     "rodada": "Próximos jogos",
     "ligaMediaGols": 2.55,
-    "atualizadoEm": "27/07/2026 13:38 UTC",
+    "atualizadoEm": "03/08/2026 13:40 UTC",
     "jogos": []
   }
 }
