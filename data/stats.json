@@ -2,306 +2,9 @@
   "BSA": {
     "competicao": "Campeonato Brasileiro Série A",
     "rodada": "Próximos jogos",
-    "ligaMediaGols": 2.67,
-    "atualizadoEm": "19/10/2026 17:20 UTC",
+    "ligaMediaGols": 2.66,
+    "atualizadoEm": "26/10/2026 17:07 UTC",
     "jogos": [
-      {
-        "id": "sc-corinthians-paulista-vs-ec-vitória",
-        "timeA": {
-          "nome": "SC Corinthians Paulista",
-          "mediaGolsMarcadosCasa": 1.0,
-          "mediaGolsSofridosCasa": 1.07,
-          "ultimos5": [
-            "V",
-            "D",
-            "D",
-            "D",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 15
-        },
-        "timeB": {
-          "nome": "EC Vitória",
-          "mediaGolsMarcadosFora": 0.73,
-          "mediaGolsSofridosFora": 2.13,
-          "ultimos5": [
-            "D",
-            "D",
-            "D",
-            "E",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 15
-        },
-        "dataJogo": "19/10 23:00",
-        "contexto": ""
-      },
-      {
-        "id": "cruzeiro-ec-vs-clube-do-remo",
-        "timeA": {
-          "nome": "Cruzeiro EC",
-          "mediaGolsMarcadosCasa": 1.73,
-          "mediaGolsSofridosCasa": 1.07,
-          "ultimos5": [
-            "D",
-            "D",
-            "V",
-            "D",
-            "V"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 15
-        },
-        "timeB": {
-          "nome": "Clube do Remo",
-          "mediaGolsMarcadosFora": 0.93,
-          "mediaGolsSofridosFora": 1.87,
-          "ultimos5": [
-            "D",
-            "E",
-            "D",
-            "D",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 15
-        },
-        "dataJogo": "23/10 23:00",
-        "contexto": ""
-      },
-      {
-        "id": "sc-internacional-vs-botafogo-fr",
-        "timeA": {
-          "nome": "SC Internacional",
-          "mediaGolsMarcadosCasa": 1.2,
-          "mediaGolsSofridosCasa": 1.13,
-          "ultimos5": [
-            "D",
-            "V",
-            "D",
-            "E",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 15
-        },
-        "timeB": {
-          "nome": "Botafogo FR",
-          "mediaGolsMarcadosFora": 1.2,
-          "mediaGolsSofridosFora": 1.73,
-          "ultimos5": [
-            "V",
-            "D",
-            "D",
-            "D",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 15
-        },
-        "dataJogo": "24/10 19:30",
-        "contexto": ""
-      },
-      {
-        "id": "mirassol-fc-vs-são-paulo-fc",
-        "timeA": {
-          "nome": "Mirassol FC",
-          "mediaGolsMarcadosCasa": 1.44,
-          "mediaGolsSofridosCasa": 1.31,
-          "ultimos5": [
-            "E",
-            "D",
-            "V",
-            "E",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 16
-        },
-        "timeB": {
-          "nome": "São Paulo FC",
-          "mediaGolsMarcadosFora": 0.73,
-          "mediaGolsSofridosFora": 1.47,
-          "ultimos5": [
-            "E",
-            "D",
-            "D",
-            "D",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 15
-        },
-        "dataJogo": "24/10 19:30",
-        "contexto": ""
-      },
-      {
-        "id": "ec-vitória-vs-ca-paranaense",
-        "timeA": {
-          "nome": "EC Vitória",
-          "mediaGolsMarcadosCasa": 1.47,
-          "mediaGolsSofridosCasa": 0.8,
-          "ultimos5": [
-            "D",
-            "D",
-            "D",
-            "E",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 15
-        },
-        "timeB": {
-          "nome": "CA Paranaense",
-          "mediaGolsMarcadosFora": 1.47,
-          "mediaGolsSofridosFora": 1.47,
-          "ultimos5": [
-            "V",
-            "V",
-            "D",
-            "E",
-            "V"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 15
-        },
-        "dataJogo": "24/10 19:30",
-        "contexto": ""
-      },
-      {
-        "id": "se-palmeiras-vs-rb-bragantino",
-        "timeA": {
-          "nome": "SE Palmeiras",
-          "mediaGolsMarcadosCasa": 1.87,
-          "mediaGolsSofridosCasa": 0.67,
-          "ultimos5": [
-            "D",
-            "E",
-            "E",
-            "E",
-            "V"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 15
-        },
-        "timeB": {
-          "nome": "RB Bragantino",
-          "mediaGolsMarcadosFora": 0.94,
-          "mediaGolsSofridosFora": 1.19,
-          "ultimos5": [
-            "D",
-            "E",
-            "D",
-            "D",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 16
-        },
-        "dataJogo": "24/10 21:30",
-        "contexto": ""
-      },
-      {
-        "id": "cr-vasco-da-gama-vs-sc-corinthians-paulista",
-        "timeA": {
-          "nome": "CR Vasco da Gama",
-          "mediaGolsMarcadosCasa": 1.4,
-          "mediaGolsSofridosCasa": 1.2,
-          "ultimos5": [
-            "D",
-            "D",
-            "V",
-            "V",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 15
-        },
-        "timeB": {
-          "nome": "SC Corinthians Paulista",
-          "mediaGolsMarcadosFora": 1.07,
-          "mediaGolsSofridosFora": 1.47,
-          "ultimos5": [
-            "V",
-            "D",
-            "D",
-            "D",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 15
-        },
-        "dataJogo": "24/10 21:30",
-        "contexto": ""
-      },
-      {
-        "id": "chapecoense-af-vs-fluminense-fc",
-        "timeA": {
-          "nome": "Chapecoense AF",
-          "mediaGolsMarcadosCasa": 1.36,
-          "mediaGolsSofridosCasa": 2.36,
-          "ultimos5": [
-            "D",
-            "V",
-            "E",
-            "D",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 14
-        },
-        "timeB": {
-          "nome": "Fluminense FC",
-          "mediaGolsMarcadosFora": 1.33,
-          "mediaGolsSofridosFora": 1.53,
-          "ultimos5": [
-            "E",
-            "E",
-            "D",
-            "V",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 15
-        },
-        "dataJogo": "24/10 22:30",
-        "contexto": ""
-      },
-      {
-        "id": "santos-fc-vs-ec-bahia",
-        "timeA": {
-          "nome": "Santos FC",
-          "mediaGolsMarcadosCasa": 1.47,
-          "mediaGolsSofridosCasa": 1.33,
-          "ultimos5": [
-            "V",
-            "V",
-            "V",
-            "D",
-            "V"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 15
-        },
-        "timeB": {
-          "nome": "EC Bahia",
-          "mediaGolsMarcadosFora": 1.4,
-          "mediaGolsSofridosFora": 1.47,
-          "ultimos5": [
-            "E",
-            "V",
-            "V",
-            "D",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 15
-        },
-        "dataJogo": "25/10 01:00",
-        "contexto": ""
-      },
       {
         "id": "coritiba-fbc-vs-grêmio-fbpa",
         "timeA": {
@@ -334,776 +37,430 @@
         },
         "dataJogo": "26/10 22:30",
         "contexto": ""
+      },
+      {
+        "id": "cr-flamengo-vs-ca-mineiro",
+        "timeA": {
+          "nome": "CR Flamengo",
+          "mediaGolsMarcadosCasa": 1.93,
+          "mediaGolsSofridosCasa": 0.67,
+          "ultimos5": [
+            "V",
+            "D",
+            "V",
+            "E",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 15
+        },
+        "timeB": {
+          "nome": "CA Mineiro",
+          "mediaGolsMarcadosFora": 1.0,
+          "mediaGolsSofridosFora": 1.2,
+          "ultimos5": [
+            "V",
+            "E",
+            "E",
+            "D",
+            "E"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 15
+        },
+        "dataJogo": "26/10 23:00",
+        "contexto": ""
+      },
+      {
+        "id": "rb-bragantino-vs-chapecoense-af",
+        "timeA": {
+          "nome": "RB Bragantino",
+          "mediaGolsMarcadosCasa": 1.6,
+          "mediaGolsSofridosCasa": 1.13,
+          "ultimos5": [
+            "E",
+            "D",
+            "D",
+            "E",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 15
+        },
+        "timeB": {
+          "nome": "Chapecoense AF",
+          "mediaGolsMarcadosFora": 0.69,
+          "mediaGolsSofridosFora": 1.81,
+          "ultimos5": [
+            "D",
+            "V",
+            "E",
+            "D",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 16
+        },
+        "dataJogo": "28/10 22:30",
+        "contexto": ""
+      },
+      {
+        "id": "fluminense-fc-vs-sc-internacional",
+        "timeA": {
+          "nome": "Fluminense FC",
+          "mediaGolsMarcadosCasa": 1.81,
+          "mediaGolsSofridosCasa": 1.0,
+          "ultimos5": [
+            "E",
+            "D",
+            "V",
+            "D",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 16
+        },
+        "timeB": {
+          "nome": "SC Internacional",
+          "mediaGolsMarcadosFora": 0.94,
+          "mediaGolsSofridosFora": 1.44,
+          "ultimos5": [
+            "D",
+            "V",
+            "D",
+            "E",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 16
+        },
+        "dataJogo": "28/10 22:30",
+        "contexto": ""
+      },
+      {
+        "id": "santos-fc-vs-se-palmeiras",
+        "timeA": {
+          "nome": "Santos FC",
+          "mediaGolsMarcadosCasa": 1.44,
+          "mediaGolsSofridosCasa": 1.31,
+          "ultimos5": [
+            "V",
+            "V",
+            "V",
+            "D",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 16
+        },
+        "timeB": {
+          "nome": "SE Palmeiras",
+          "mediaGolsMarcadosFora": 1.62,
+          "mediaGolsSofridosFora": 0.75,
+          "ultimos5": [
+            "D",
+            "E",
+            "E",
+            "E",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 16
+        },
+        "dataJogo": "28/10 22:30",
+        "contexto": ""
+      },
+      {
+        "id": "ec-bahia-vs-são-paulo-fc",
+        "timeA": {
+          "nome": "EC Bahia",
+          "mediaGolsMarcadosCasa": 1.44,
+          "mediaGolsSofridosCasa": 1.06,
+          "ultimos5": [
+            "V",
+            "V",
+            "D",
+            "D",
+            "E"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 16
+        },
+        "timeB": {
+          "nome": "São Paulo FC",
+          "mediaGolsMarcadosFora": 0.75,
+          "mediaGolsSofridosFora": 1.44,
+          "ultimos5": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "E"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 16
+        },
+        "dataJogo": "29/10 00:30",
+        "contexto": ""
+      },
+      {
+        "id": "clube-do-remo-vs-botafogo-fr",
+        "timeA": {
+          "nome": "Clube do Remo",
+          "mediaGolsMarcadosCasa": 1.25,
+          "mediaGolsSofridosCasa": 1.31,
+          "ultimos5": [
+            "E",
+            "D",
+            "D",
+            "E",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 16
+        },
+        "timeB": {
+          "nome": "Botafogo FR",
+          "mediaGolsMarcadosFora": 1.12,
+          "mediaGolsSofridosFora": 1.81,
+          "ultimos5": [
+            "D",
+            "D",
+            "D",
+            "E",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 16
+        },
+        "dataJogo": "29/10 00:30",
+        "contexto": ""
+      },
+      {
+        "id": "ca-mineiro-vs-cruzeiro-ec",
+        "timeA": {
+          "nome": "CA Mineiro",
+          "mediaGolsMarcadosCasa": 1.69,
+          "mediaGolsSofridosCasa": 1.06,
+          "ultimos5": [
+            "V",
+            "E",
+            "E",
+            "D",
+            "E"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 16
+        },
+        "timeB": {
+          "nome": "Cruzeiro EC",
+          "mediaGolsMarcadosFora": 1.5,
+          "mediaGolsSofridosFora": 1.88,
+          "ultimos5": [
+            "D",
+            "D",
+            "V",
+            "D",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 16
+        },
+        "dataJogo": "29/10 22:30",
+        "contexto": ""
+      },
+      {
+        "id": "cr-vasco-da-gama-vs-cr-flamengo",
+        "timeA": {
+          "nome": "CR Vasco da Gama",
+          "mediaGolsMarcadosCasa": 1.5,
+          "mediaGolsSofridosCasa": 1.25,
+          "ultimos5": [
+            "D",
+            "D",
+            "V",
+            "V",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 16
+        },
+        "timeB": {
+          "nome": "CR Flamengo",
+          "mediaGolsMarcadosFora": 2.0,
+          "mediaGolsSofridosFora": 0.94,
+          "ultimos5": [
+            "V",
+            "D",
+            "V",
+            "E",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 16
+        },
+        "dataJogo": "29/10 23:00",
+        "contexto": ""
+      },
+      {
+        "id": "grêmio-fbpa-vs-ca-paranaense",
+        "timeA": {
+          "nome": "Grêmio FBPA",
+          "mediaGolsMarcadosCasa": 1.56,
+          "mediaGolsSofridosCasa": 1.31,
+          "ultimos5": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "E"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 16
+        },
+        "timeB": {
+          "nome": "CA Paranaense",
+          "mediaGolsMarcadosFora": 1.44,
+          "mediaGolsSofridosFora": 1.44,
+          "ultimos5": [
+            "V",
+            "D",
+            "E",
+            "V",
+            "E"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 16
+        },
+        "dataJogo": "30/10 00:30",
+        "contexto": ""
       }
     ]
   },
   "PL": {
     "competicao": "Premier League",
     "rodada": "Próximos jogos",
-    "ligaMediaGols": 2.88,
-    "atualizadoEm": "19/10/2026 17:20 UTC",
+    "ligaMediaGols": 2.77,
+    "atualizadoEm": "26/10/2026 17:07 UTC",
     "jogos": [
       {
-        "id": "tottenham-hotspur-fc-vs-coventry-city-fc",
-        "timeA": {
-          "nome": "Tottenham Hotspur FC",
-          "mediaGolsMarcadosCasa": 0.67,
-          "mediaGolsSofridosCasa": 1.67,
-          "ultimos5": [
-            "E",
-            "D",
-            "D",
-            "E",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 3
-        },
-        "timeB": {
-          "nome": "Coventry City FC",
-          "mediaGolsMarcadosFora": 0.33,
-          "mediaGolsSofridosFora": 1.33,
-          "ultimos5": [
-            "D",
-            "V",
-            "D",
-            "D",
-            "V"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
-        },
-        "dataJogo": "19/10 19:00",
-        "contexto": ""
-      },
-      {
-        "id": "ipswich-town-fc-vs-nottingham-forest-fc",
-        "timeA": {
-          "nome": "Ipswich Town FC",
-          "mediaGolsMarcadosCasa": 1.33,
-          "mediaGolsSofridosCasa": 1.33,
-          "ultimos5": [
-            "V",
-            "D",
-            "V",
-            "D",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 3
-        },
-        "timeB": {
-          "nome": "Nottingham Forest FC",
-          "mediaGolsMarcadosFora": 1.67,
-          "mediaGolsSofridosFora": 2.0,
-          "ultimos5": [
-            "D",
-            "D",
-            "E",
-            "V",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
-        },
-        "dataJogo": "23/10 19:00",
-        "contexto": ""
-      },
-      {
-        "id": "aston-villa-fc-vs-manchester-city-fc",
-        "timeA": {
-          "nome": "Aston Villa FC",
-          "mediaGolsMarcadosCasa": 1.0,
-          "mediaGolsSofridosCasa": 1.67,
-          "ultimos5": [
-            "E",
-            "D",
-            "E",
-            "V",
-            "V"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 3
-        },
-        "timeB": {
-          "nome": "Manchester City FC",
-          "mediaGolsMarcadosFora": 2.67,
-          "mediaGolsSofridosFora": 0.33,
-          "ultimos5": [
-            "V",
-            "V",
-            "V",
-            "V",
-            "V"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
-        },
-        "dataJogo": "24/10 11:30",
-        "contexto": ""
-      },
-      {
-        "id": "arsenal-fc-vs-everton-fc",
-        "timeA": {
-          "nome": "Arsenal FC",
-          "mediaGolsMarcadosCasa": 2.33,
-          "mediaGolsSofridosCasa": 0.67,
-          "ultimos5": [
-            "V",
-            "V",
-            "V",
-            "D",
-            "V"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 3
-        },
-        "timeB": {
-          "nome": "Everton FC",
-          "mediaGolsMarcadosFora": 1.0,
-          "mediaGolsSofridosFora": 1.0,
-          "ultimos5": [
-            "V",
-            "D",
-            "E",
-            "E",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
-        },
-        "dataJogo": "24/10 14:00",
-        "contexto": ""
-      },
-      {
-        "id": "coventry-city-fc-vs-fulham-fc",
-        "timeA": {
-          "nome": "Coventry City FC",
-          "mediaGolsMarcadosCasa": 1.33,
-          "mediaGolsSofridosCasa": 2.33,
-          "ultimos5": [
-            "D",
-            "V",
-            "D",
-            "D",
-            "V"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 3
-        },
-        "timeB": {
-          "nome": "Fulham FC",
-          "mediaGolsMarcadosFora": 0.33,
-          "mediaGolsSofridosFora": 1.0,
-          "ultimos5": [
-            "E",
-            "V",
-            "D",
-            "E",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
-        },
-        "dataJogo": "24/10 14:00",
-        "contexto": ""
-      },
-      {
-        "id": "chelsea-fc-vs-tottenham-hotspur-fc",
+        "id": "chelsea-fc-vs-manchester-united-fc",
         "timeA": {
           "nome": "Chelsea FC",
-          "mediaGolsMarcadosCasa": 3.67,
+          "mediaGolsMarcadosCasa": 2.75,
           "mediaGolsSofridosCasa": 2.0,
           "ultimos5": [
-            "V",
+            "D",
             "V",
             "D",
             "D",
             "V"
           ],
           "posicaoTabela": 0,
-          "jogosEmCasa": 3
+          "jogosEmCasa": 4
         },
         "timeB": {
-          "nome": "Tottenham Hotspur FC",
-          "mediaGolsMarcadosFora": 0.33,
-          "mediaGolsSofridosFora": 1.33,
+          "nome": "Manchester United FC",
+          "mediaGolsMarcadosFora": 1.0,
+          "mediaGolsSofridosFora": 1.5,
           "ultimos5": [
+            "D",
+            "D",
             "E",
-            "D",
-            "D",
             "E",
             "E"
           ],
           "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
+          "jogosForaDeCasa": 4
         },
-        "dataJogo": "24/10 16:30",
+        "dataJogo": "31/10 12:30",
         "contexto": ""
       },
       {
-        "id": "liverpool-fc-vs-brighton-&-hove-albion-fc",
+        "id": "manchester-city-fc-vs-brighton-&-hove-albion-fc",
         "timeA": {
-          "nome": "Liverpool FC",
-          "mediaGolsMarcadosCasa": 0.67,
-          "mediaGolsSofridosCasa": 1.67,
+          "nome": "Manchester City FC",
+          "mediaGolsMarcadosCasa": 2.75,
+          "mediaGolsSofridosCasa": 1.5,
           "ultimos5": [
-            "D",
-            "E",
             "V",
             "V",
-            "V"
+            "V",
+            "V",
+            "D"
           ],
           "posicaoTabela": 0,
-          "jogosEmCasa": 3
+          "jogosEmCasa": 4
         },
         "timeB": {
           "nome": "Brighton & Hove Albion FC",
-          "mediaGolsMarcadosFora": 3.33,
-          "mediaGolsSofridosFora": 1.33,
-          "ultimos5": [
-            "V",
-            "V",
-            "D",
-            "V",
-            "V"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
-        },
-        "dataJogo": "25/10 14:00",
-        "contexto": ""
-      },
-      {
-        "id": "crystal-palace-fc-vs-newcastle-united-fc",
-        "timeA": {
-          "nome": "Crystal Palace FC",
-          "mediaGolsMarcadosCasa": 2.0,
-          "mediaGolsSofridosCasa": 2.67,
+          "mediaGolsMarcadosFora": 2.5,
+          "mediaGolsSofridosFora": 1.5,
           "ultimos5": [
             "V",
             "D",
             "V",
-            "E",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 3
-        },
-        "timeB": {
-          "nome": "Newcastle United FC",
-          "mediaGolsMarcadosFora": 1.33,
-          "mediaGolsSofridosFora": 2.67,
-          "ultimos5": [
             "V",
-            "D",
-            "V",
-            "D",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
-        },
-        "dataJogo": "25/10 14:00",
-        "contexto": ""
-      },
-      {
-        "id": "manchester-united-fc-vs-afc-bournemouth",
-        "timeA": {
-          "nome": "Manchester United FC",
-          "mediaGolsMarcadosCasa": 2.0,
-          "mediaGolsSofridosCasa": 1.33,
-          "ultimos5": [
-            "E",
-            "D",
-            "E",
-            "E",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 3
-        },
-        "timeB": {
-          "nome": "AFC Bournemouth",
-          "mediaGolsMarcadosFora": 1.33,
-          "mediaGolsSofridosFora": 3.0,
-          "ultimos5": [
-            "D",
-            "V",
-            "D",
-            "E",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
-        },
-        "dataJogo": "25/10 14:00",
-        "contexto": ""
-      },
-      {
-        "id": "hull-city-afc-vs-brentford-fc",
-        "timeA": {
-          "nome": "Hull City AFC",
-          "mediaGolsMarcadosCasa": 1.33,
-          "mediaGolsSofridosCasa": 0.67,
-          "ultimos5": [
-            "E",
-            "V",
-            "E",
-            "D",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 3
-        },
-        "timeB": {
-          "nome": "Brentford FC",
-          "mediaGolsMarcadosFora": 1.67,
-          "mediaGolsSofridosFora": 1.67,
-          "ultimos5": [
-            "V",
-            "D",
-            "E",
-            "E",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
-        },
-        "dataJogo": "25/10 14:00",
-        "contexto": ""
-      }
-    ]
-  },
-  "BL1": {
-    "competicao": "Bundesliga",
-    "rodada": "Próximos jogos",
-    "ligaMediaGols": 3.69,
-    "atualizadoEm": "19/10/2026 17:20 UTC",
-    "jogos": [
-      {
-        "id": "vfb-stuttgart-vs-borussia-mönchengladbach",
-        "timeA": {
-          "nome": "VfB Stuttgart",
-          "mediaGolsMarcadosCasa": 2.0,
-          "mediaGolsSofridosCasa": 1.0,
-          "ultimos5": [
-            "D",
-            "D",
-            "D",
-            "V",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 2
-        },
-        "timeB": {
-          "nome": "Borussia Mönchengladbach",
-          "mediaGolsMarcadosFora": 0.33,
-          "mediaGolsSofridosFora": 3.33,
-          "ultimos5": [
-            "D",
-            "D",
-            "D",
-            "D",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
-        },
-        "dataJogo": "23/10 18:30",
-        "contexto": ""
-      },
-      {
-        "id": "1.-fsv-mainz-05-vs-sv-werder-bremen",
-        "timeA": {
-          "nome": "1. FSV Mainz 05",
-          "mediaGolsMarcadosCasa": 1.33,
-          "mediaGolsSofridosCasa": 2.33,
-          "ultimos5": [
-            "D",
-            "D",
-            "V",
-            "V",
-            "V"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 3
-        },
-        "timeB": {
-          "nome": "SV Werder Bremen",
-          "mediaGolsMarcadosFora": 1.33,
-          "mediaGolsSofridosFora": 2.33,
-          "ultimos5": [
-            "V",
-            "E",
-            "D",
-            "E",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
-        },
-        "dataJogo": "24/10 13:30",
-        "contexto": ""
-      },
-      {
-        "id": "1.-fc-köln-vs-fc-schalke-04",
-        "timeA": {
-          "nome": "1. FC Köln",
-          "mediaGolsMarcadosCasa": 2.0,
-          "mediaGolsSofridosCasa": 1.33,
-          "ultimos5": [
-            "E",
-            "V",
-            "D",
-            "D",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 3
-        },
-        "timeB": {
-          "nome": "FC Schalke 04",
-          "mediaGolsMarcadosFora": 1.33,
-          "mediaGolsSofridosFora": 2.0,
-          "ultimos5": [
-            "E",
-            "D",
-            "D",
-            "V",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
-        },
-        "dataJogo": "24/10 13:30",
-        "contexto": ""
-      },
-      {
-        "id": "rb-leipzig-vs-sv-07-elversberg",
-        "timeA": {
-          "nome": "RB Leipzig",
-          "mediaGolsMarcadosCasa": 4.67,
-          "mediaGolsSofridosCasa": 0.0,
-          "ultimos5": [
-            "V",
-            "V",
-            "D",
-            "D",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 3
-        },
-        "timeB": {
-          "nome": "SV 07 Elversberg",
-          "mediaGolsMarcadosFora": 1.33,
-          "mediaGolsSofridosFora": 1.33,
-          "ultimos5": [
-            "D",
-            "V",
-            "V",
-            "E",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
-        },
-        "dataJogo": "24/10 13:30",
-        "contexto": ""
-      },
-      {
-        "id": "sc-paderborn-07-vs-hamburger-sv",
-        "timeA": {
-          "nome": "SC Paderborn 07",
-          "mediaGolsMarcadosCasa": 1.0,
-          "mediaGolsSofridosCasa": 1.33,
-          "ultimos5": [
-            "V",
-            "D",
-            "E",
-            "D",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 3
-        },
-        "timeB": {
-          "nome": "Hamburger SV",
-          "mediaGolsMarcadosFora": 1.0,
-          "mediaGolsSofridosFora": 3.0,
-          "ultimos5": [
-            "V",
-            "V",
-            "D",
-            "D",
-            "V"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
-        },
-        "dataJogo": "24/10 13:30",
-        "contexto": ""
-      },
-      {
-        "id": "fc-augsburg-vs-1.-fc-union-berlin",
-        "timeA": {
-          "nome": "FC Augsburg",
-          "mediaGolsMarcadosCasa": 2.33,
-          "mediaGolsSofridosCasa": 1.33,
-          "ultimos5": [
-            "E",
-            "E",
-            "V",
-            "D",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 3
-        },
-        "timeB": {
-          "nome": "1. FC Union Berlin",
-          "mediaGolsMarcadosFora": 0.0,
-          "mediaGolsSofridosFora": 5.5,
-          "ultimos5": [
-            "D",
-            "V",
-            "E",
-            "D",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 2
-        },
-        "dataJogo": "24/10 13:30",
-        "contexto": ""
-      },
-      {
-        "id": "borussia-dortmund-vs-eintracht-frankfurt",
-        "timeA": {
-          "nome": "Borussia Dortmund",
-          "mediaGolsMarcadosCasa": 2.33,
-          "mediaGolsSofridosCasa": 0.67,
-          "ultimos5": [
-            "V",
-            "E",
-            "V",
-            "V",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 3
-        },
-        "timeB": {
-          "nome": "Eintracht Frankfurt",
-          "mediaGolsMarcadosFora": 2.0,
-          "mediaGolsSofridosFora": 3.33,
-          "ultimos5": [
-            "E",
-            "V",
-            "E",
-            "V",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
-        },
-        "dataJogo": "24/10 16:30",
-        "contexto": ""
-      },
-      {
-        "id": "tsg-1899-hoffenheim-vs-bayer-04-leverkusen",
-        "timeA": {
-          "nome": "TSG 1899 Hoffenheim",
-          "mediaGolsMarcadosCasa": 2.0,
-          "mediaGolsSofridosCasa": 2.33,
-          "ultimos5": [
-            "V",
-            "D",
-            "D",
-            "D",
-            "V"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 3
-        },
-        "timeB": {
-          "nome": "Bayer 04 Leverkusen",
-          "mediaGolsMarcadosFora": 2.67,
-          "mediaGolsSofridosFora": 2.67,
-          "ultimos5": [
-            "V",
-            "V",
-            "D",
-            "E",
-            "V"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
-        },
-        "dataJogo": "25/10 14:30",
-        "contexto": ""
-      },
-      {
-        "id": "sc-freiburg-vs-fc-bayern-münchen",
-        "timeA": {
-          "nome": "SC Freiburg",
-          "mediaGolsMarcadosCasa": 3.67,
-          "mediaGolsSofridosCasa": 0.67,
-          "ultimos5": [
-            "V",
-            "V",
-            "V",
-            "E",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 3
-        },
-        "timeB": {
-          "nome": "FC Bayern München",
-          "mediaGolsMarcadosFora": 1.33,
-          "mediaGolsSofridosFora": 1.0,
-          "ultimos5": [
-            "V",
-            "V",
-            "E",
-            "V",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
-        },
-        "dataJogo": "25/10 16:30",
-        "contexto": ""
-      }
-    ]
-  },
-  "SA": {
-    "competicao": "Serie A",
-    "rodada": "Próximos jogos",
-    "ligaMediaGols": 2.94,
-    "atualizadoEm": "19/10/2026 17:20 UTC",
-    "jogos": [
-      {
-        "id": "parma-calcio-1913-vs-torino-fc",
-        "timeA": {
-          "nome": "Parma Calcio 1913",
-          "mediaGolsMarcadosCasa": 1.0,
-          "mediaGolsSofridosCasa": 1.0,
-          "ultimos5": [
-            "E",
-            "V",
-            "D",
-            "D",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 3
-        },
-        "timeB": {
-          "nome": "Torino FC",
-          "mediaGolsMarcadosFora": 1.33,
-          "mediaGolsSofridosFora": 1.33,
-          "ultimos5": [
-            "D",
-            "V",
-            "D",
-            "V",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
-        },
-        "dataJogo": "19/10 18:45",
-        "contexto": ""
-      },
-      {
-        "id": "torino-fc-vs-ac-monza",
-        "timeA": {
-          "nome": "Torino FC",
-          "mediaGolsMarcadosCasa": 1.0,
-          "mediaGolsSofridosCasa": 1.67,
-          "ultimos5": [
-            "D",
-            "V",
-            "D",
-            "V",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 3
-        },
-        "timeB": {
-          "nome": "AC Monza",
-          "mediaGolsMarcadosFora": 1.25,
-          "mediaGolsSofridosFora": 2.75,
-          "ultimos5": [
-            "V",
-            "D",
-            "E",
-            "D",
             "D"
           ],
           "posicaoTabela": 0,
           "jogosForaDeCasa": 4
         },
-        "dataJogo": "23/10 18:45",
+        "dataJogo": "31/10 15:00",
         "contexto": ""
       },
       {
-        "id": "cagliari-calcio-vs-bologna-fc-1909",
+        "id": "afc-bournemouth-vs-leeds-united-fc",
         "timeA": {
-          "nome": "Cagliari Calcio",
-          "mediaGolsMarcadosCasa": 0.67,
-          "mediaGolsSofridosCasa": 0.67,
+          "nome": "AFC Bournemouth",
+          "mediaGolsMarcadosCasa": 1.25,
+          "mediaGolsSofridosCasa": 1.0,
           "ultimos5": [
             "V",
+            "D",
             "E",
-            "V",
-            "V",
+            "D",
             "V"
           ],
           "posicaoTabela": 0,
-          "jogosEmCasa": 3
+          "jogosEmCasa": 4
         },
         "timeB": {
-          "nome": "Bologna FC 1909",
-          "mediaGolsMarcadosFora": 0.67,
-          "mediaGolsSofridosFora": 1.0,
+          "nome": "Leeds United FC",
+          "mediaGolsMarcadosFora": 0.75,
+          "mediaGolsSofridosFora": 0.75,
           "ultimos5": [
             "E",
+            "V",
+            "E",
             "D",
-            "D",
-            "D",
-            "V"
+            "E"
           ],
           "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
+          "jogosForaDeCasa": 4
         },
-        "dataJogo": "24/10 13:00",
+        "dataJogo": "31/10 15:00",
         "contexto": ""
       },
       {
-        "id": "como-1907-vs-us-sassuolo-calcio",
+        "id": "coventry-city-fc-vs-sunderland-afc",
         "timeA": {
-          "nome": "Como 1907",
+          "nome": "Coventry City FC",
           "mediaGolsMarcadosCasa": 1.0,
-          "mediaGolsSofridosCasa": 0.5,
+          "mediaGolsSofridosCasa": 2.0,
           "ultimos5": [
-            "E",
-            "V",
-            "V",
             "D",
-            "V"
+            "D",
+            "D",
+            "V",
+            "D"
           ],
           "posicaoTabela": 0,
-          "jogosEmCasa": 2
+          "jogosEmCasa": 4
         },
         "timeB": {
-          "nome": "US Sassuolo Calcio",
-          "mediaGolsMarcadosFora": 1.5,
+          "nome": "Sunderland AFC",
+          "mediaGolsMarcadosFora": 1.25,
           "mediaGolsSofridosFora": 2.5,
           "ultimos5": [
             "E",
@@ -1115,29 +472,433 @@
           "posicaoTabela": 0,
           "jogosForaDeCasa": 4
         },
-        "dataJogo": "24/10 13:00",
+        "dataJogo": "31/10 15:00",
         "contexto": ""
       },
       {
-        "id": "ssc-napoli-vs-as-roma",
+        "id": "hull-city-afc-vs-ipswich-town-fc",
         "timeA": {
-          "nome": "SSC Napoli",
-          "mediaGolsMarcadosCasa": 1.67,
+          "nome": "Hull City AFC",
+          "mediaGolsMarcadosCasa": 1.25,
+          "mediaGolsSofridosCasa": 0.75,
+          "ultimos5": [
+            "E",
+            "V",
+            "E",
+            "D",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 4
+        },
+        "timeB": {
+          "nome": "Ipswich Town FC",
+          "mediaGolsMarcadosFora": 1.75,
+          "mediaGolsSofridosFora": 2.75,
+          "ultimos5": [
+            "E",
+            "D",
+            "V",
+            "D",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 4
+        },
+        "dataJogo": "31/10 15:00",
+        "contexto": ""
+      },
+      {
+        "id": "brentford-fc-vs-nottingham-forest-fc",
+        "timeA": {
+          "nome": "Brentford FC",
+          "mediaGolsMarcadosCasa": 2.0,
+          "mediaGolsSofridosCasa": 0.75,
+          "ultimos5": [
+            "D",
+            "E",
+            "E",
+            "E",
+            "E"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 4
+        },
+        "timeB": {
+          "nome": "Nottingham Forest FC",
+          "mediaGolsMarcadosFora": 1.5,
+          "mediaGolsSofridosFora": 1.75,
+          "ultimos5": [
+            "D",
+            "E",
+            "V",
+            "D",
+            "E"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 4
+        },
+        "dataJogo": "31/10 15:00",
+        "contexto": ""
+      },
+      {
+        "id": "tottenham-hotspur-fc-vs-crystal-palace-fc",
+        "timeA": {
+          "nome": "Tottenham Hotspur FC",
+          "mediaGolsMarcadosCasa": 1.25,
+          "mediaGolsSofridosCasa": 1.5,
+          "ultimos5": [
+            "V",
+            "D",
+            "E",
+            "E",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 4
+        },
+        "timeB": {
+          "nome": "Crystal Palace FC",
+          "mediaGolsMarcadosFora": 0.75,
+          "mediaGolsSofridosFora": 2.25,
+          "ultimos5": [
+            "D",
+            "D",
+            "V",
+            "E",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 4
+        },
+        "dataJogo": "31/10 17:30",
+        "contexto": ""
+      },
+      {
+        "id": "aston-villa-fc-vs-fulham-fc",
+        "timeA": {
+          "nome": "Aston Villa FC",
+          "mediaGolsMarcadosCasa": 1.25,
+          "mediaGolsSofridosCasa": 1.5,
+          "ultimos5": [
+            "V",
+            "D",
+            "E",
+            "V",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 4
+        },
+        "timeB": {
+          "nome": "Fulham FC",
+          "mediaGolsMarcadosFora": 0.5,
+          "mediaGolsSofridosFora": 0.75,
+          "ultimos5": [
+            "V",
+            "D",
+            "E",
+            "D",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 4
+        },
+        "dataJogo": "31/10 20:00",
+        "contexto": ""
+      },
+      {
+        "id": "liverpool-fc-vs-arsenal-fc",
+        "timeA": {
+          "nome": "Liverpool FC",
+          "mediaGolsMarcadosCasa": 1.0,
+          "mediaGolsSofridosCasa": 1.25,
+          "ultimos5": [
+            "V",
+            "E",
+            "V",
+            "V",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 4
+        },
+        "timeB": {
+          "nome": "Arsenal FC",
+          "mediaGolsMarcadosFora": 1.0,
+          "mediaGolsSofridosFora": 0.75,
+          "ultimos5": [
+            "V",
+            "V",
+            "V",
+            "D",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 4
+        },
+        "dataJogo": "01/11 16:30",
+        "contexto": ""
+      },
+      {
+        "id": "newcastle-united-fc-vs-everton-fc",
+        "timeA": {
+          "nome": "Newcastle United FC",
+          "mediaGolsMarcadosCasa": 1.5,
+          "mediaGolsSofridosCasa": 1.5,
+          "ultimos5": [
+            "D",
+            "V",
+            "D",
+            "D",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 4
+        },
+        "timeB": {
+          "nome": "Everton FC",
+          "mediaGolsMarcadosFora": 0.75,
+          "mediaGolsSofridosFora": 1.25,
+          "ultimos5": [
+            "D",
+            "E",
+            "E",
+            "E",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 4
+        },
+        "dataJogo": "02/11 20:00",
+        "contexto": ""
+      }
+    ]
+  },
+  "BL1": {
+    "competicao": "Bundesliga",
+    "rodada": "Próximos jogos",
+    "ligaMediaGols": 3.56,
+    "atualizadoEm": "26/10/2026 17:07 UTC",
+    "jogos": [
+      {
+        "id": "sv-07-elversberg-vs-1.-fsv-mainz-05",
+        "timeA": {
+          "nome": "SV 07 Elversberg",
+          "mediaGolsMarcadosCasa": 2.67,
+          "mediaGolsSofridosCasa": 2.33,
+          "ultimos5": [
+            "V",
+            "V",
+            "E",
+            "D",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 3
+        },
+        "timeB": {
+          "nome": "1. FSV Mainz 05",
+          "mediaGolsMarcadosFora": 3.33,
+          "mediaGolsSofridosFora": 1.0,
+          "ultimos5": [
+            "D",
+            "D",
+            "V",
+            "V",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 3
+        },
+        "dataJogo": "30/10 19:30",
+        "contexto": ""
+      },
+      {
+        "id": "borussia-mönchengladbach-vs-sc-paderborn-07",
+        "timeA": {
+          "nome": "Borussia Mönchengladbach",
+          "mediaGolsMarcadosCasa": 2.33,
+          "mediaGolsSofridosCasa": 3.33,
+          "ultimos5": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 3
+        },
+        "timeB": {
+          "nome": "SC Paderborn 07",
+          "mediaGolsMarcadosFora": 0.67,
+          "mediaGolsSofridosFora": 1.67,
+          "ultimos5": [
+            "D",
+            "V",
+            "E",
+            "D",
+            "E"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 3
+        },
+        "dataJogo": "31/10 14:30",
+        "contexto": ""
+      },
+      {
+        "id": "fc-schalke-04-vs-rb-leipzig",
+        "timeA": {
+          "nome": "FC Schalke 04",
+          "mediaGolsMarcadosCasa": 0.0,
+          "mediaGolsSofridosCasa": 0.33,
+          "ultimos5": [
+            "D",
+            "D",
+            "V",
+            "D",
+            "E"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 3
+        },
+        "timeB": {
+          "nome": "RB Leipzig",
+          "mediaGolsMarcadosFora": 0.67,
+          "mediaGolsSofridosFora": 3.67,
+          "ultimos5": [
+            "V",
+            "V",
+            "D",
+            "D",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 3
+        },
+        "dataJogo": "31/10 14:30",
+        "contexto": ""
+      },
+      {
+        "id": "fc-augsburg-vs-sc-freiburg",
+        "timeA": {
+          "nome": "FC Augsburg",
+          "mediaGolsMarcadosCasa": 2.0,
+          "mediaGolsSofridosCasa": 1.25,
+          "ultimos5": [
+            "E",
+            "E",
+            "V",
+            "D",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 4
+        },
+        "timeB": {
+          "nome": "SC Freiburg",
+          "mediaGolsMarcadosFora": 1.33,
+          "mediaGolsSofridosFora": 1.33,
+          "ultimos5": [
+            "V",
+            "V",
+            "V",
+            "E",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 3
+        },
+        "dataJogo": "31/10 14:30",
+        "contexto": ""
+      },
+      {
+        "id": "sv-werder-bremen-vs-tsg-1899-hoffenheim",
+        "timeA": {
+          "nome": "SV Werder Bremen",
+          "mediaGolsMarcadosCasa": 2.67,
+          "mediaGolsSofridosCasa": 1.67,
+          "ultimos5": [
+            "E",
+            "D",
+            "E",
+            "E",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 3
+        },
+        "timeB": {
+          "nome": "TSG 1899 Hoffenheim",
+          "mediaGolsMarcadosFora": 1.67,
+          "mediaGolsSofridosFora": 2.33,
+          "ultimos5": [
+            "V",
+            "D",
+            "D",
+            "D",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 3
+        },
+        "dataJogo": "31/10 14:30",
+        "contexto": ""
+      },
+      {
+        "id": "bayer-04-leverkusen-vs-vfb-stuttgart",
+        "timeA": {
+          "nome": "Bayer 04 Leverkusen",
+          "mediaGolsMarcadosCasa": 2.67,
+          "mediaGolsSofridosCasa": 0.33,
+          "ultimos5": [
+            "V",
+            "V",
+            "D",
+            "E",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 3
+        },
+        "timeB": {
+          "nome": "VfB Stuttgart",
+          "mediaGolsMarcadosFora": 1.0,
+          "mediaGolsSofridosFora": 2.0,
+          "ultimos5": [
+            "D",
+            "D",
+            "D",
+            "V",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 4
+        },
+        "dataJogo": "31/10 14:30",
+        "contexto": ""
+      },
+      {
+        "id": "fc-bayern-münchen-vs-borussia-dortmund",
+        "timeA": {
+          "nome": "FC Bayern München",
+          "mediaGolsMarcadosCasa": 6.0,
           "mediaGolsSofridosCasa": 0.67,
           "ultimos5": [
             "V",
             "V",
-            "D",
             "E",
-            "D"
+            "V",
+            "E"
           ],
           "posicaoTabela": 0,
           "jogosEmCasa": 3
         },
         "timeB": {
-          "nome": "AS Roma",
-          "mediaGolsMarcadosFora": 2.0,
-          "mediaGolsSofridosFora": 0.0,
+          "nome": "Borussia Dortmund",
+          "mediaGolsMarcadosFora": 1.33,
+          "mediaGolsSofridosFora": 0.67,
           "ultimos5": [
             "E",
             "V",
@@ -1148,51 +909,158 @@
           "posicaoTabela": 0,
           "jogosForaDeCasa": 3
         },
-        "dataJogo": "24/10 16:00",
+        "dataJogo": "31/10 17:30",
         "contexto": ""
       },
       {
-        "id": "ss-lazio-vs-parma-calcio-1913",
+        "id": "1.-fc-union-berlin-vs-1.-fc-köln",
         "timeA": {
-          "nome": "SS Lazio",
-          "mediaGolsMarcadosCasa": 2.0,
-          "mediaGolsSofridosCasa": 1.0,
-          "ultimos5": [
-            "V",
-            "V",
-            "V",
-            "V",
-            "V"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 3
-        },
-        "timeB": {
-          "nome": "Parma Calcio 1913",
-          "mediaGolsMarcadosFora": 0.33,
-          "mediaGolsSofridosFora": 2.33,
-          "ultimos5": [
-            "E",
-            "V",
-            "D",
-            "D",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
-        },
-        "dataJogo": "24/10 18:45",
-        "contexto": ""
-      },
-      {
-        "id": "fc-internazionale-milano-vs-acf-fiorentina",
-        "timeA": {
-          "nome": "FC Internazionale Milano",
-          "mediaGolsMarcadosCasa": 3.75,
+          "nome": "1. FC Union Berlin",
+          "mediaGolsMarcadosCasa": 1.25,
           "mediaGolsSofridosCasa": 1.5,
           "ultimos5": [
             "V",
+            "E",
+            "D",
+            "D",
+            "E"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 4
+        },
+        "timeB": {
+          "nome": "1. FC Köln",
+          "mediaGolsMarcadosFora": 0.67,
+          "mediaGolsSofridosFora": 2.33,
+          "ultimos5": [
             "V",
+            "E",
+            "D",
+            "D",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 3
+        },
+        "dataJogo": "01/11 14:30",
+        "contexto": ""
+      },
+      {
+        "id": "eintracht-frankfurt-vs-hamburger-sv",
+        "timeA": {
+          "nome": "Eintracht Frankfurt",
+          "mediaGolsMarcadosCasa": 1.33,
+          "mediaGolsSofridosCasa": 2.0,
+          "ultimos5": [
+            "V",
+            "E",
+            "V",
+            "D",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 3
+        },
+        "timeB": {
+          "nome": "Hamburger SV",
+          "mediaGolsMarcadosFora": 0.75,
+          "mediaGolsSofridosFora": 2.5,
+          "ultimos5": [
+            "V",
+            "D",
+            "D",
+            "V",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 4
+        },
+        "dataJogo": "01/11 16:30",
+        "contexto": ""
+      }
+    ]
+  },
+  "SA": {
+    "competicao": "Serie A",
+    "rodada": "Próximos jogos",
+    "ligaMediaGols": 3.01,
+    "atualizadoEm": "26/10/2026 17:07 UTC",
+    "jogos": [
+      {
+        "id": "us-sassuolo-calcio-vs-ss-lazio",
+        "timeA": {
+          "nome": "US Sassuolo Calcio",
+          "mediaGolsMarcadosCasa": 2.0,
+          "mediaGolsSofridosCasa": 1.33,
+          "ultimos5": [
+            "D",
+            "E",
+            "D",
+            "D",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 3
+        },
+        "timeB": {
+          "nome": "SS Lazio",
+          "mediaGolsMarcadosFora": 2.0,
+          "mediaGolsSofridosFora": 0.25,
+          "ultimos5": [
+            "V",
+            "V",
+            "V",
+            "V",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 4
+        },
+        "dataJogo": "27/10 17:30",
+        "contexto": ""
+      },
+      {
+        "id": "as-roma-vs-cagliari-calcio",
+        "timeA": {
+          "nome": "AS Roma",
+          "mediaGolsMarcadosCasa": 2.5,
+          "mediaGolsSofridosCasa": 0.75,
+          "ultimos5": [
+            "V",
+            "V",
+            "V",
+            "E",
+            "E"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 4
+        },
+        "timeB": {
+          "nome": "Cagliari Calcio",
+          "mediaGolsMarcadosFora": 1.0,
+          "mediaGolsSofridosFora": 1.25,
+          "ultimos5": [
+            "D",
+            "V",
+            "V",
+            "V",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 4
+        },
+        "dataJogo": "27/10 19:45",
+        "contexto": ""
+      },
+      {
+        "id": "torino-fc-vs-como-1907",
+        "timeA": {
+          "nome": "Torino FC",
+          "mediaGolsMarcadosCasa": 1.5,
+          "mediaGolsSofridosCasa": 1.75,
+          "ultimos5": [
+            "V",
+            "D",
             "V",
             "E",
             "V"
@@ -1201,119 +1069,251 @@
           "jogosEmCasa": 4
         },
         "timeB": {
-          "nome": "ACF Fiorentina",
-          "mediaGolsMarcadosFora": 1.67,
-          "mediaGolsSofridosFora": 2.67,
-          "ultimos5": [
-            "E",
-            "D",
-            "D",
-            "V",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
-        },
-        "dataJogo": "25/10 11:30",
-        "contexto": ""
-      },
-      {
-        "id": "atalanta-bc-vs-frosinone-calcio",
-        "timeA": {
-          "nome": "Atalanta BC",
-          "mediaGolsMarcadosCasa": 1.75,
-          "mediaGolsSofridosCasa": 1.0,
-          "ultimos5": [
-            "D",
-            "V",
-            "D",
-            "D",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 4
-        },
-        "timeB": {
-          "nome": "Frosinone Calcio",
-          "mediaGolsMarcadosFora": 1.33,
-          "mediaGolsSofridosFora": 1.33,
-          "ultimos5": [
-            "V",
-            "V",
-            "V",
-            "E",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
-        },
-        "dataJogo": "25/10 14:00",
-        "contexto": ""
-      },
-      {
-        "id": "genoa-cfc-vs-venezia-fc",
-        "timeA": {
-          "nome": "Genoa CFC",
-          "mediaGolsMarcadosCasa": 1.0,
-          "mediaGolsSofridosCasa": 2.0,
+          "nome": "Como 1907",
+          "mediaGolsMarcadosFora": 2.0,
+          "mediaGolsSofridosFora": 1.2,
           "ultimos5": [
             "E",
             "V",
-            "D",
-            "D",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 4
-        },
-        "timeB": {
-          "nome": "Venezia FC",
-          "mediaGolsMarcadosFora": 1.0,
-          "mediaGolsSofridosFora": 2.67,
-          "ultimos5": [
-            "D",
             "V",
             "D",
-            "D",
-            "D"
+            "V"
           ],
           "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
+          "jogosForaDeCasa": 5
         },
-        "dataJogo": "25/10 14:00",
+        "dataJogo": "27/10 19:45",
         "contexto": ""
       },
       {
-        "id": "us-lecce-vs-juventus-fc",
+        "id": "ac-milan-vs-bologna-fc-1909",
         "timeA": {
-          "nome": "US Lecce",
-          "mediaGolsMarcadosCasa": 1.33,
-          "mediaGolsSofridosCasa": 2.67,
+          "nome": "AC Milan",
+          "mediaGolsMarcadosCasa": 2.67,
+          "mediaGolsSofridosCasa": 0.67,
           "ultimos5": [
-            "D",
             "V",
-            "D",
-            "D",
+            "E",
+            "E",
+            "E",
             "V"
           ],
           "posicaoTabela": 0,
           "jogosEmCasa": 3
         },
         "timeB": {
-          "nome": "Juventus FC",
-          "mediaGolsMarcadosFora": 1.33,
-          "mediaGolsSofridosFora": 1.33,
+          "nome": "Bologna FC 1909",
+          "mediaGolsMarcadosFora": 1.0,
+          "mediaGolsSofridosFora": 0.75,
+          "ultimos5": [
+            "D",
+            "D",
+            "D",
+            "V",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 4
+        },
+        "dataJogo": "28/10 17:30",
+        "contexto": ""
+      },
+      {
+        "id": "venezia-fc-vs-fc-internazionale-milano",
+        "timeA": {
+          "nome": "Venezia FC",
+          "mediaGolsMarcadosCasa": 0.75,
+          "mediaGolsSofridosCasa": 2.0,
           "ultimos5": [
             "V",
             "D",
-            "V",
             "D",
-            "E"
+            "D",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 4
+        },
+        "timeB": {
+          "nome": "FC Internazionale Milano",
+          "mediaGolsMarcadosFora": 2.0,
+          "mediaGolsSofridosFora": 1.0,
+          "ultimos5": [
+            "V",
+            "V",
+            "V",
+            "E",
+            "V"
           ],
           "posicaoTabela": 0,
           "jogosForaDeCasa": 3
         },
-        "dataJogo": "25/10 17:00",
+        "dataJogo": "28/10 17:30",
+        "contexto": ""
+      },
+      {
+        "id": "parma-calcio-1913-vs-udinese-calcio",
+        "timeA": {
+          "nome": "Parma Calcio 1913",
+          "mediaGolsMarcadosCasa": 0.75,
+          "mediaGolsSofridosCasa": 1.5,
+          "ultimos5": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 4
+        },
+        "timeB": {
+          "nome": "Udinese Calcio",
+          "mediaGolsMarcadosFora": 2.33,
+          "mediaGolsSofridosFora": 3.0,
+          "ultimos5": [
+            "D",
+            "D",
+            "V",
+            "D",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 3
+        },
+        "dataJogo": "28/10 17:30",
+        "contexto": ""
+      },
+      {
+        "id": "genoa-cfc-vs-juventus-fc",
+        "timeA": {
+          "nome": "Genoa CFC",
+          "mediaGolsMarcadosCasa": 1.0,
+          "mediaGolsSofridosCasa": 1.6,
+          "ultimos5": [
+            "V",
+            "V",
+            "D",
+            "D",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 5
+        },
+        "timeB": {
+          "nome": "Juventus FC",
+          "mediaGolsMarcadosFora": 1.5,
+          "mediaGolsSofridosFora": 1.0,
+          "ultimos5": [
+            "D",
+            "V",
+            "D",
+            "E",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 4
+        },
+        "dataJogo": "28/10 19:45",
+        "contexto": ""
+      },
+      {
+        "id": "ac-monza-vs-ssc-napoli",
+        "timeA": {
+          "nome": "AC Monza",
+          "mediaGolsMarcadosCasa": 2.67,
+          "mediaGolsSofridosCasa": 1.33,
+          "ultimos5": [
+            "D",
+            "E",
+            "D",
+            "D",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 3
+        },
+        "timeB": {
+          "nome": "SSC Napoli",
+          "mediaGolsMarcadosFora": 1.25,
+          "mediaGolsSofridosFora": 1.25,
+          "ultimos5": [
+            "E",
+            "V",
+            "D",
+            "E",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 4
+        },
+        "dataJogo": "28/10 19:45",
+        "contexto": ""
+      },
+      {
+        "id": "frosinone-calcio-vs-us-lecce",
+        "timeA": {
+          "nome": "Frosinone Calcio",
+          "mediaGolsMarcadosCasa": 2.25,
+          "mediaGolsSofridosCasa": 1.25,
+          "ultimos5": [
+            "V",
+            "V",
+            "E",
+            "D",
+            "E"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 4
+        },
+        "timeB": {
+          "nome": "US Lecce",
+          "mediaGolsMarcadosFora": 1.25,
+          "mediaGolsSofridosFora": 1.0,
+          "ultimos5": [
+            "D",
+            "V",
+            "D",
+            "D",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 4
+        },
+        "dataJogo": "29/10 17:30",
+        "contexto": ""
+      },
+      {
+        "id": "acf-fiorentina-vs-atalanta-bc",
+        "timeA": {
+          "nome": "ACF Fiorentina",
+          "mediaGolsMarcadosCasa": 0.75,
+          "mediaGolsSofridosCasa": 2.25,
+          "ultimos5": [
+            "D",
+            "D",
+            "V",
+            "D",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 4
+        },
+        "timeB": {
+          "nome": "Atalanta BC",
+          "mediaGolsMarcadosFora": 1.0,
+          "mediaGolsSofridosFora": 2.33,
+          "ultimos5": [
+            "V",
+            "E",
+            "D",
+            "D",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 3
+        },
+        "dataJogo": "29/10 19:45",
         "contexto": ""
       }
     ]
@@ -1321,213 +1321,95 @@
   "PD": {
     "competicao": "La Liga",
     "rodada": "Próximos jogos",
-    "ligaMediaGols": 3.08,
-    "atualizadoEm": "19/10/2026 17:20 UTC",
+    "ligaMediaGols": 3.02,
+    "atualizadoEm": "26/10/2026 17:07 UTC",
     "jogos": [
       {
-        "id": "getafe-cf-vs-rayo-vallecano-de-madrid",
+        "id": "sevilla-fc-vs-ca-osasuna",
         "timeA": {
-          "nome": "Getafe CF",
-          "mediaGolsMarcadosCasa": 1.0,
-          "mediaGolsSofridosCasa": 0.5,
+          "nome": "Sevilla FC",
+          "mediaGolsMarcadosCasa": 1.25,
+          "mediaGolsSofridosCasa": 1.75,
           "ultimos5": [
             "V",
-            "D",
-            "D",
-            "D",
+            "E",
+            "V",
+            "E",
             "D"
           ],
           "posicaoTabela": 0,
           "jogosEmCasa": 4
         },
         "timeB": {
-          "nome": "Rayo Vallecano de Madrid",
-          "mediaGolsMarcadosFora": 1.25,
-          "mediaGolsSofridosFora": 3.0,
+          "nome": "CA Osasuna",
+          "mediaGolsMarcadosFora": 1.5,
+          "mediaGolsSofridosFora": 3.75,
           "ultimos5": [
+            "V",
             "V",
             "D",
             "D",
-            "D",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 4
-        },
-        "dataJogo": "19/10 19:00",
-        "contexto": ""
-      },
-      {
-        "id": "levante-ud-vs-athletic-club",
-        "timeA": {
-          "nome": "Levante UD",
-          "mediaGolsMarcadosCasa": 3.33,
-          "mediaGolsSofridosCasa": 3.0,
-          "ultimos5": [
-            "D",
-            "E",
-            "E",
-            "D",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 3
-        },
-        "timeB": {
-          "nome": "Athletic Club",
-          "mediaGolsMarcadosFora": 0.67,
-          "mediaGolsSofridosFora": 0.67,
-          "ultimos5": [
-            "E",
-            "E",
-            "D",
-            "V",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 3
-        },
-        "dataJogo": "21/10 18:00",
-        "contexto": ""
-      },
-      {
-        "id": "deportivo-alavés-vs-málaga-cf",
-        "timeA": {
-          "nome": "Deportivo Alavés",
-          "mediaGolsMarcadosCasa": 2.0,
-          "mediaGolsSofridosCasa": 1.0,
-          "ultimos5": [
-            "D",
-            "E",
-            "D",
-            "E",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 5
-        },
-        "timeB": {
-          "nome": "Málaga CF",
-          "mediaGolsMarcadosFora": 0.25,
-          "mediaGolsSofridosFora": 2.0,
-          "ultimos5": [
-            "D",
-            "D",
-            "D",
-            "E",
             "D"
           ],
           "posicaoTabela": 0,
           "jogosForaDeCasa": 4
         },
-        "dataJogo": "23/10 19:00",
+        "dataJogo": "26/10 20:00",
         "contexto": ""
       },
       {
-        "id": "rayo-vallecano-de-madrid-vs-elche-cf",
+        "id": "villarreal-cf-vs-rcd-espanyol-de-barcelona",
         "timeA": {
-          "nome": "Rayo Vallecano de Madrid",
-          "mediaGolsMarcadosCasa": 2.0,
-          "mediaGolsSofridosCasa": 1.33,
-          "ultimos5": [
-            "V",
-            "D",
-            "D",
-            "D",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 3
-        },
-        "timeB": {
-          "nome": "Elche CF",
-          "mediaGolsMarcadosFora": 1.4,
-          "mediaGolsSofridosFora": 1.2,
+          "nome": "Villarreal CF",
+          "mediaGolsMarcadosCasa": 1.5,
+          "mediaGolsSofridosCasa": 1.5,
           "ultimos5": [
             "E",
             "D",
-            "E",
             "V",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 5
-        },
-        "dataJogo": "24/10 12:00",
-        "contexto": ""
-      },
-      {
-        "id": "real-racing-club-de-santander-vs-rcd-espanyol-de-barcelona",
-        "timeA": {
-          "nome": "Real Racing Club de Santander",
-          "mediaGolsMarcadosCasa": 2.25,
-          "mediaGolsSofridosCasa": 1.75,
-          "ultimos5": [
             "D",
-            "D",
-            "D",
-            "D",
-            "D"
+            "V"
           ],
           "posicaoTabela": 0,
           "jogosEmCasa": 4
         },
         "timeB": {
           "nome": "RCD Espanyol de Barcelona",
-          "mediaGolsMarcadosFora": 1.25,
-          "mediaGolsSofridosFora": 1.25,
-          "ultimos5": [
-            "D",
-            "D",
-            "V",
-            "D",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 4
-        },
-        "dataJogo": "24/10 14:15",
-        "contexto": ""
-      },
-      {
-        "id": "valencia-cf-vs-villarreal-cf",
-        "timeA": {
-          "nome": "Valencia CF",
-          "mediaGolsMarcadosCasa": 0.4,
-          "mediaGolsSofridosCasa": 1.8,
-          "ultimos5": [
-            "E",
-            "D",
-            "D",
-            "V",
-            "E"
-          ],
-          "posicaoTabela": 0,
-          "jogosEmCasa": 5
-        },
-        "timeB": {
-          "nome": "Villarreal CF",
-          "mediaGolsMarcadosFora": 1.4,
+          "mediaGolsMarcadosFora": 1.2,
           "mediaGolsSofridosFora": 1.4,
           "ultimos5": [
-            "E",
-            "E",
             "D",
             "V",
+            "D",
+            "E",
             "D"
           ],
           "posicaoTabela": 0,
           "jogosForaDeCasa": 5
         },
-        "dataJogo": "24/10 16:30",
+        "dataJogo": "30/10 20:00",
         "contexto": ""
       },
       {
-        "id": "club-atlético-de-madrid-vs-rc-deportivo-la-coruña",
+        "id": "levante-ud-vs-club-atlético-de-madrid",
         "timeA": {
+          "nome": "Levante UD",
+          "mediaGolsMarcadosCasa": 3.25,
+          "mediaGolsSofridosCasa": 2.5,
+          "ultimos5": [
+            "E",
+            "E",
+            "D",
+            "E",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 4
+        },
+        "timeB": {
           "nome": "Club Atlético de Madrid",
-          "mediaGolsMarcadosCasa": 2.5,
-          "mediaGolsSofridosCasa": 0.75,
+          "mediaGolsMarcadosFora": 1.8,
+          "mediaGolsSofridosFora": 1.0,
           "ultimos5": [
             "V",
             "D",
@@ -1536,81 +1418,199 @@
             "V"
           ],
           "posicaoTabela": 0,
-          "jogosEmCasa": 4
+          "jogosForaDeCasa": 5
         },
-        "timeB": {
-          "nome": "RC Deportivo La Coruña",
-          "mediaGolsMarcadosFora": 1.75,
-          "mediaGolsSofridosFora": 1.75,
-          "ultimos5": [
-            "E",
-            "E",
-            "V",
-            "E",
-            "D"
-          ],
-          "posicaoTabela": 0,
-          "jogosForaDeCasa": 4
-        },
-        "dataJogo": "24/10 19:00",
+        "dataJogo": "31/10 13:00",
         "contexto": ""
       },
       {
-        "id": "athletic-club-vs-getafe-cf",
+        "id": "rayo-vallecano-de-madrid-vs-rc-celta-de-vigo",
         "timeA": {
-          "nome": "Athletic Club",
-          "mediaGolsMarcadosCasa": 1.25,
-          "mediaGolsSofridosCasa": 1.0,
+          "nome": "Rayo Vallecano de Madrid",
+          "mediaGolsMarcadosCasa": 1.5,
+          "mediaGolsSofridosCasa": 1.75,
           "ultimos5": [
-            "E",
-            "E",
             "D",
-            "V",
+            "D",
+            "D",
+            "E",
             "E"
           ],
           "posicaoTabela": 0,
           "jogosEmCasa": 4
         },
         "timeB": {
-          "nome": "Getafe CF",
-          "mediaGolsMarcadosFora": 0.0,
-          "mediaGolsSofridosFora": 2.0,
+          "nome": "RC Celta de Vigo",
+          "mediaGolsMarcadosFora": 0.25,
+          "mediaGolsSofridosFora": 0.25,
           "ultimos5": [
-            "V",
-            "D",
-            "D",
-            "D",
-            "D"
+            "E",
+            "E",
+            "E",
+            "E",
+            "E"
           ],
           "posicaoTabela": 0,
           "jogosForaDeCasa": 4
         },
-        "dataJogo": "25/10 13:00",
+        "dataJogo": "31/10 15:15",
         "contexto": ""
       },
       {
-        "id": "rc-celta-de-vigo-vs-real-betis-balompié",
+        "id": "real-betis-balompié-vs-málaga-cf",
         "timeA": {
-          "nome": "RC Celta de Vigo",
-          "mediaGolsMarcadosCasa": 1.8,
+          "nome": "Real Betis Balompié",
+          "mediaGolsMarcadosCasa": 2.0,
+          "mediaGolsSofridosCasa": 1.4,
+          "ultimos5": [
+            "V",
+            "D",
+            "V",
+            "E",
+            "E"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 5
+        },
+        "timeB": {
+          "nome": "Málaga CF",
+          "mediaGolsMarcadosFora": 0.4,
+          "mediaGolsSofridosFora": 1.8,
+          "ultimos5": [
+            "D",
+            "D",
+            "E",
+            "D",
+            "E"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 5
+        },
+        "dataJogo": "31/10 17:30",
+        "contexto": ""
+      },
+      {
+        "id": "fc-barcelona-vs-deportivo-alavés",
+        "timeA": {
+          "nome": "FC Barcelona",
+          "mediaGolsMarcadosCasa": 3.6,
           "mediaGolsSofridosCasa": 1.2,
           "ultimos5": [
             "V",
-            "E",
-            "E",
-            "E",
-            "E"
+            "V",
+            "V",
+            "V",
+            "V"
           ],
           "posicaoTabela": 0,
           "jogosEmCasa": 5
         },
         "timeB": {
-          "nome": "Real Betis Balompié",
-          "mediaGolsMarcadosFora": 1.5,
-          "mediaGolsSofridosFora": 1.75,
+          "nome": "Deportivo Alavés",
+          "mediaGolsMarcadosFora": 0.75,
+          "mediaGolsSofridosFora": 1.25,
+          "ultimos5": [
+            "E",
+            "E",
+            "D",
+            "E",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 4
+        },
+        "dataJogo": "31/10 20:00",
+        "contexto": ""
+      },
+      {
+        "id": "getafe-cf-vs-sevilla-fc",
+        "timeA": {
+          "nome": "Getafe CF",
+          "mediaGolsMarcadosCasa": 1.0,
+          "mediaGolsSofridosCasa": 0.6,
           "ultimos5": [
             "D",
+            "D",
+            "D",
+            "D",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 5
+        },
+        "timeB": {
+          "nome": "Sevilla FC",
+          "mediaGolsMarcadosFora": 1.8,
+          "mediaGolsSofridosFora": 1.8,
+          "ultimos5": [
             "V",
+            "E",
+            "V",
+            "E",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 5
+        },
+        "dataJogo": "01/11 13:00",
+        "contexto": ""
+      },
+      {
+        "id": "real-racing-club-de-santander-vs-real-madrid-cf",
+        "timeA": {
+          "nome": "Real Racing Club de Santander",
+          "mediaGolsMarcadosCasa": 2.2,
+          "mediaGolsSofridosCasa": 1.6,
+          "ultimos5": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 5
+        },
+        "timeB": {
+          "nome": "Real Madrid CF",
+          "mediaGolsMarcadosFora": 1.6,
+          "mediaGolsSofridosFora": 1.4,
+          "ultimos5": [
+            "V",
+            "D",
+            "V",
+            "D",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosForaDeCasa": 5
+        },
+        "dataJogo": "01/11 15:15",
+        "contexto": ""
+      },
+      {
+        "id": "elche-cf-vs-valencia-cf",
+        "timeA": {
+          "nome": "Elche CF",
+          "mediaGolsMarcadosCasa": 1.0,
+          "mediaGolsSofridosCasa": 2.75,
+          "ultimos5": [
+            "D",
+            "E",
+            "V",
+            "E",
+            "V"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 4
+        },
+        "timeB": {
+          "nome": "Valencia CF",
+          "mediaGolsMarcadosFora": 1.0,
+          "mediaGolsSofridosFora": 1.5,
+          "ultimos5": [
+            "D",
+            "D",
             "D",
             "V",
             "E"
@@ -1618,15 +1618,29 @@
           "posicaoTabela": 0,
           "jogosForaDeCasa": 4
         },
-        "dataJogo": "25/10 15:15",
+        "dataJogo": "01/11 17:30",
         "contexto": ""
       },
       {
-        "id": "real-sociedad-de-fútbol-vs-levante-ud",
+        "id": "athletic-club-vs-real-sociedad-de-fútbol",
         "timeA": {
+          "nome": "Athletic Club",
+          "mediaGolsMarcadosCasa": 1.8,
+          "mediaGolsSofridosCasa": 0.8,
+          "ultimos5": [
+            "V",
+            "D",
+            "V",
+            "E",
+            "D"
+          ],
+          "posicaoTabela": 0,
+          "jogosEmCasa": 5
+        },
+        "timeB": {
           "nome": "Real Sociedad de Fútbol",
-          "mediaGolsMarcadosCasa": 1.25,
-          "mediaGolsSofridosCasa": 1.5,
+          "mediaGolsMarcadosFora": 2.4,
+          "mediaGolsSofridosFora": 2.2,
           "ultimos5": [
             "D",
             "D",
@@ -1635,23 +1649,9 @@
             "V"
           ],
           "posicaoTabela": 0,
-          "jogosEmCasa": 4
-        },
-        "timeB": {
-          "nome": "Levante UD",
-          "mediaGolsMarcadosFora": 0.4,
-          "mediaGolsSofridosFora": 1.4,
-          "ultimos5": [
-            "D",
-            "E",
-            "E",
-            "D",
-            "E"
-          ],
-          "posicaoTabela": 0,
           "jogosForaDeCasa": 5
         },
-        "dataJogo": "25/10 17:30",
+        "dataJogo": "01/11 20:00",
         "contexto": ""
       }
     ]
@@ -1659,15 +1659,15 @@
   "FL1": {
     "competicao": "Ligue 1",
     "rodada": "Próximos jogos",
-    "ligaMediaGols": 3.05,
-    "atualizadoEm": "19/10/2026 17:20 UTC",
+    "ligaMediaGols": 2.99,
+    "atualizadoEm": "26/10/2026 17:07 UTC",
     "jogos": []
   },
   "CL": {
     "competicao": "Champions League",
     "rodada": "Próximos jogos",
     "ligaMediaGols": 2.55,
-    "atualizadoEm": "19/10/2026 17:20 UTC",
+    "atualizadoEm": "26/10/2026 17:07 UTC",
     "jogos": []
   }
 }
